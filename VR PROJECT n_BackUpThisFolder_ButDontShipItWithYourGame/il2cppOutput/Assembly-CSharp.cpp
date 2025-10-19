@@ -1,0 +1,3610 @@
+﻿#include "pch-cpp.hpp"
+
+
+
+
+
+
+struct Action_1_tB8CA4FD5AE31D22DB74D262F9D03ACFA1C0B2CA8;
+struct Action_1_tCB862C932EAF49C2968D3AD96CEDF6D2DFED41F0;
+struct BindableVariable_1_tAB8C2D23769D801C8E39D4AA927DD23AF0E6816C;
+struct Dictionary_2_t2FB52A1C9A5EF3BE7F06D41CF41259B9A0296ABC;
+struct Dictionary_2_t1A8FC8C012681D4B964E7A8A383FD3E718078AE9;
+struct Dictionary_2_t9B20C3EBA931E014FB6496226DAB71B59F7CC4EC;
+struct Dictionary_2_tF1266609C0E9EDEC0BE227973F4B2C73474967DD;
+struct ExposedRegistrationList_1_t11A438A04DF188A3BE1950639AAF0CBFAF9065A5;
+struct ExposedRegistrationList_1_t7932F633A860258335FD94BBFDE46AC92B1CF84B;
+struct ExposedRegistrationList_1_t0AF641D8E06922C1FFAF3DA223105F57CE5BC4D8;
+struct Func_3_t3C59F9322C032EF2EC419F9538F86DFC0F4B1421;
+struct HashSetList_1_tCF3541C1916DB23E3E8D3E2D2C675B59FE3ACBAF;
+struct HashSetList_1_tCE34B4C28F58D67E795B058A35AD8A457BFB1175;
+struct HashSetList_1_t85FA4F6EDCA9A84D235398F53ED390EE2CE4DC98;
+struct HashSetList_1_tC0FA4922B36F37C46BA57A5B55C8B0A1FF78D9A2;
+struct HashSet_1_t109CCE87260348881F7ED50EEE3FFD003542DC8B;
+struct HashSet_1_t91EA27B234497F73858A13093DC591352DFD339A;
+struct LinkedPool_1_t6A6017AF114EF397084F1333559D0DB9CCE28598;
+struct LinkedPool_1_t903D30868AECB20DD006FC2E04DDC68D822C3450;
+struct List_1_t58F89DEDCD7DABB0CFB009AAD9C0CFE061592252;
+struct List_1_tB0C796BACCE72002824004B31D3AFE084C3BFC75;
+struct List_1_t9A2E2984B23260AECDFA90CEB1F2887075FA4DF3;
+struct List_1_tCFCD970A7548BC894D178194E5028E3E294AF3B9;
+struct SmallRegistrationList_1_t748513BBF6769ED01AAD787FF7698EF51EBEF62D;
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031;
+struct COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA;
+struct CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB;
+struct ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411;
+struct GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF;
+struct GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94;
+struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918;
+struct RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649;
+struct SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C;
+struct StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248;
+struct Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C;
+struct ActivateEvent_tA1D392B588AC99958CB847AE6911DC5131BCFB43;
+struct AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354;
+struct BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23;
+struct COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0;
+struct CancellationTokenSource_tAAE1E0033BCFC233801F8CB4CED5C852B350CB7B;
+struct CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A;
+struct Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76;
+struct Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0;
+struct Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3;
+struct DeactivateEvent_tFE44262C3D8377F947FD46D4561BB9DAC7E0785D;
+struct FocusEnterEvent_tF5369B418FFFBE1C6FDE6EBDDD8B9E412A32CD90;
+struct FocusExitEvent_tFAE8003B7B5A47FB4D9C5BB14D7A3273AF8931AE;
+struct GameObject_t76FEDD663AB33C991A9C9A23129337651094216F;
+struct GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7;
+struct HoverEnterEvent_t2BDBCA14FF94DA18C9AC12B43297F6C1641788AB;
+struct HoverExitEvent_t256704BC79FE0AA61EB2DE3FDDF43A1FC97F5832;
+struct IXRAimAssist_t6F48E543FC58FB68B147F70D086492B00FDA315D;
+struct IXRInteractionGroup_tE179A88275A6C646BAC9BF131BDE92552FC664C0;
+struct IXRSelectInteractor_tF89F25345282BDE348CC5A11BBACE44810BD29CC;
+struct MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71;
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C;
+struct PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E;
+struct PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426;
+struct PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C;
+struct Rigidbody_t268697F5A994213ED97393309870968BC1C7393C;
+struct SelectEnterEvent_tBA2614C8C25D8794D5804C4F66195D74E64FC5D0;
+struct SelectExitEvent_t15DC0A39F9657BA9E6BAE6250D8D64C9671201F6;
+struct String_t;
+struct TeleportationMonitor_tC9AB34520A1A0D6D2F18DD2067601DE1405C72C6;
+struct Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1;
+struct UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC95F24D0C6E6B77389433852BB389F39C692926E;
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
+struct XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B;
+struct XRInteractionManager_t93C7F7F0CFEAD83E1A70F92D05B0E663483746CD;
+
+IL2CPP_EXTERN_C RuntimeClass* ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Math_tEB65DE7CA8B083C412C969C92981C030865486CE_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____88CC2715ECB3F61CCA2E81393FD4C928CB577A937D6BE1AE2569FA5038F7835A_FieldInfo_var;
+IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____C01352D7B4646583E3072B7D823A5DEC1CFC80AD41F31C9C23BC4D77AFC82DCA_FieldInfo_var;
+IL2CPP_EXTERN_C String_t* _stringLiteral040C4A69C69CDD982826E7D708B5E3CF5BC0D10C;
+IL2CPP_EXTERN_C String_t* _stringLiteral0BC39CAAF0E9FA19F327CAA50982F9C4EE73C22D;
+IL2CPP_EXTERN_C String_t* _stringLiteral0DA2043A8A682A05414969584CC14FC5C9A02AF9;
+IL2CPP_EXTERN_C String_t* _stringLiteral10CF47CADAD317A5958612DF347E3B54CEF1C4B3;
+IL2CPP_EXTERN_C String_t* _stringLiteral2536F07CD446693557BA6EFAA3DE28AB0751FE0F;
+IL2CPP_EXTERN_C String_t* _stringLiteral28CEE2ECA1F7C1E3D72A13C9AD8B8D76E7D5A162;
+IL2CPP_EXTERN_C String_t* _stringLiteral2EE9918A9B50F771D88B9556D6776D99785904E1;
+IL2CPP_EXTERN_C String_t* _stringLiteral2FE04BD30E54D57730BA28927AA5FEB3F2C51D00;
+IL2CPP_EXTERN_C String_t* _stringLiteral30603C912EEEAB136CAFC52AE7BE66BC5CAC213D;
+IL2CPP_EXTERN_C String_t* _stringLiteral32683D74E98F362AC200D53F1F107F7F1CCB04F9;
+IL2CPP_EXTERN_C String_t* _stringLiteral3323317B30CB3C3A33D1E8EECBA5DAC88EBD443E;
+IL2CPP_EXTERN_C String_t* _stringLiteral45902DA7C66879DA157BEE260538F10B1050005F;
+IL2CPP_EXTERN_C String_t* _stringLiteral488377B1C04BA5D6C67A1E6658E73B8B1023C90E;
+IL2CPP_EXTERN_C String_t* _stringLiteral58D29FB07FF8A509E2E16212E72BE26200A112C5;
+IL2CPP_EXTERN_C String_t* _stringLiteral604B452CAB11966BFA0CC9F3FE0897CC135D5D5A;
+IL2CPP_EXTERN_C String_t* _stringLiteral6E2A118D02EEC0264ECB711997DC50620920E7B0;
+IL2CPP_EXTERN_C String_t* _stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A;
+IL2CPP_EXTERN_C String_t* _stringLiteral7F1E81A5C424B0C2123E292E059073D9F6A63CAF;
+IL2CPP_EXTERN_C String_t* _stringLiteral80D3D68614B79A64E28BF02B2398C467BCA2F59D;
+IL2CPP_EXTERN_C String_t* _stringLiteral88D002AD59819F439ED80679A293152630EF5737;
+IL2CPP_EXTERN_C String_t* _stringLiteral91016FBC75291537623A8681D8FB536566858F5A;
+IL2CPP_EXTERN_C String_t* _stringLiteral91159AA3334F1A17B1D5D2A7520A46B4F763DBB4;
+IL2CPP_EXTERN_C String_t* _stringLiteral969A2B06BC1FEAE433E3EAB11C36B933C86D4DE8;
+IL2CPP_EXTERN_C String_t* _stringLiteral9890938C32A7046E49E25103EE1BD6BBC263027E;
+IL2CPP_EXTERN_C String_t* _stringLiteral989C21C89B6BADBAC63FA23C686684B8941B2449;
+IL2CPP_EXTERN_C String_t* _stringLiteral99A6F8DEE351E3E9E475C30AC86CCFFB7B3F73CC;
+IL2CPP_EXTERN_C String_t* _stringLiteral9D6CC2EA571037317A7D3C7914B554BCE51795D8;
+IL2CPP_EXTERN_C String_t* _stringLiteralB2301674D3F2FB46D287E562855AA16725AAEC8D;
+IL2CPP_EXTERN_C String_t* _stringLiteralB4EE39BA1196AB6EFC7F697EA0E5A00C56B627A0;
+IL2CPP_EXTERN_C String_t* _stringLiteralB93F5E13E0AD8E8044D7D80E771F9A55F393D87F;
+IL2CPP_EXTERN_C String_t* _stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70;
+IL2CPP_EXTERN_C String_t* _stringLiteralCD00B8BC1494531781429E421CA5526AD5B5D4B3;
+IL2CPP_EXTERN_C String_t* _stringLiteralCEB28B98A7A2CD28D9DEDFB781029ECA8D2D3C9E;
+IL2CPP_EXTERN_C String_t* _stringLiteralCF4CA5BD68FEE49BE8BDEBD46F7B8080E34E1A88;
+IL2CPP_EXTERN_C String_t* _stringLiteralD68BE01726DE0EA1568C282EEE8A1B99BD2D53BE;
+IL2CPP_EXTERN_C String_t* _stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709;
+IL2CPP_EXTERN_C String_t* _stringLiteralE97ECFE8F396FF79A73B20081B35021844A48013;
+IL2CPP_EXTERN_C String_t* _stringLiteralECBD1FD020ACE94D3888C54BAF8837E1E536ABB9;
+IL2CPP_EXTERN_C String_t* _stringLiteralEF5D3A82039A5B06815340BA99949F647729F2C9;
+IL2CPP_EXTERN_C String_t* _stringLiteralF13325FE7BF40B244F837DD72779BDDEEE9536FC;
+IL2CPP_EXTERN_C String_t* _stringLiteralF40F4777012AF610FA029FE7C10F5A1317E1670B;
+IL2CPP_EXTERN_C String_t* _stringLiteralFB084452F5E847D3675C57E20BC6C58B08C96D92;
+IL2CPP_EXTERN_C String_t* _stringLiteralFBE0F1F7132BE7E8D346561582010D20033C7B42;
+IL2CPP_EXTERN_C String_t* _stringLiteralFEE592359D1A8563706650C3478C82EF50069B98;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m59698092F1230C6FB7F40D0F58F643A931A732D7_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisCollider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76_m820398EDBF1D3766C3166A0C323A127662A29A14_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_m49377F1D0DBAB9BDC59DFC6851E9A5D687717C14_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* GameObject_AddComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m655518C8454E418FE8CF0E4770881B7A2B12BB23_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* GameObject_AddComponent_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_mD34F5ECBD3F7F7118B8387FFF3ADAB83776539D1_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* GameObject_AddComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m03A761629A3F71B0248F1B26EF612F592B757093_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* GameObject_AddComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_mCAA85B78B14B3E0BB825C92803CC5AA40D50A283_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* GameObject_GetComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mF5DD17AABEBC92404294F47D63DFAECFFA8430AE_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* GameObject_GetComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_m82065CC88786F89B1664AC179994DFB868F4889B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Object_FindObjectOfType_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_m5272DDF587C5904D71C169C8665EA721F15225EE_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Object_FindObjectsOfType_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mB45FD2B81374715B46E949E725614703DC84F95B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Object_FindObjectsOfType_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC199CDF653D38ECA1356CE666A45EE3F68C7DF47_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Object_FindObjectsOfType_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_mBE599DB26D8EE325527D3181606AC854B2FC7D5B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_m94D533D749C927A8897789C193B69184C14C1A1B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC752E2FE51DC497DCAFDF1BE9046B7588C6A8CA3_RuntimeMethod_var;
+
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031;
+struct COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA;
+struct ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411;
+struct GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF;
+struct GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94;
+struct RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649;
+struct StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248;
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+struct U3CModuleU3E_tBB65183F1134474D09FF49B95625D25472B9BA8B 
+{
+};
+struct U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA  : public RuntimeObject
+{
+};
+struct String_t  : public RuntimeObject
+{
+	int32_t ____stringLength;
+	Il2CppChar ____firstChar;
+};
+struct UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC95F24D0C6E6B77389433852BB389F39C692926E  : public RuntimeObject
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F  : public RuntimeObject
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_pinvoke
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_com
+{
+};
+struct ValueTuple_2_t973F7AB0EF5DD3619E518A966941F10D8098F52D 
+{
+	int32_t ___Item1;
+	int32_t ___Item2;
+};
+struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22 
+{
+	bool ___m_value;
+};
+struct Byte_t94D9231AC217BE4D2E004C4CD32DF6D099EA41A3 
+{
+	uint8_t ___m_value;
+};
+struct Color_tD001788D726C3A7F1379BEED0260B9591F440C1F 
+{
+	float ___r;
+	float ___g;
+	float ___b;
+	float ___a;
+};
+struct Double_tE150EF3D1D43DEE85D533810AB4C742307EEDE5F 
+{
+	double ___m_value;
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2  : public ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_marshaled_pinvoke
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_marshaled_com
+{
+};
+struct Int32_t680FF22E76F6EFAD4375103CBBFFA0421349384C 
+{
+	int32_t ___m_value;
+};
+struct IntPtr_t 
+{
+	void* ___m_value;
+};
+struct InteractionLayerMask_t3B3480A4A5E1E0C43314C0D2CEB3BB39175E1FD4 
+{
+	uint32_t ___m_Bits;
+	int32_t ___m_Mask;
+};
+struct LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB 
+{
+	int32_t ___m_Mask;
+};
+struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 
+{
+	float ___x;
+	float ___y;
+	float ___z;
+	float ___w;
+};
+struct Single_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C 
+{
+	float ___m_value;
+};
+struct Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 
+{
+	float ___x;
+	float ___y;
+};
+struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 
+{
+	float ___x;
+	float ___y;
+	float ___z;
+};
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915 
+{
+	union
+	{
+		struct
+		{
+		};
+		uint8_t Void_t4861ACF8F4594C3437BB48B6E56783494B843915__padding[1];
+	};
+};
+#pragma pack(push, tp, 1)
+struct __StaticArrayInitTypeSizeU3D132_t10FAD9C5C973D0A6AA68EF6B60063C126D303199 
+{
+	union
+	{
+		struct
+		{
+			union
+			{
+			};
+		};
+		uint8_t __StaticArrayInitTypeSizeU3D132_t10FAD9C5C973D0A6AA68EF6B60063C126D303199__padding[132];
+	};
+};
+#pragma pack(pop, tp)
+#pragma pack(push, tp, 1)
+struct __StaticArrayInitTypeSizeU3D79_tCB9837134BA4E1342655A0FE43150675D9AFACA0 
+{
+	union
+	{
+		struct
+		{
+			union
+			{
+			};
+		};
+		uint8_t __StaticArrayInitTypeSizeU3D79_tCB9837134BA4E1342655A0FE43150675D9AFACA0__padding[79];
+	};
+};
+#pragma pack(pop, tp)
+struct MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E 
+{
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___FilePathsData;
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	bool ___IsEditorOnly;
+};
+struct MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_pinvoke
+{
+	Il2CppSafeArray* ___FilePathsData;
+	Il2CppSafeArray* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	int32_t ___IsEditorOnly;
+};
+struct MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_com
+{
+	Il2CppSafeArray* ___FilePathsData;
+	Il2CppSafeArray* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	int32_t ___IsEditorOnly;
+};
+struct CollisionPairEventFlags_t9DAB7B8F199928220E6ACA8E669F3B644650FBE6 
+{
+	uint16_t ___value__;
+};
+struct CollisionPairFlags_tD05FDF8CD2FA43B2AAC0078E19DB27DF01B2BA98 
+{
+	uint16_t ___value__;
+};
+struct CollisionPairHeaderFlags_tBA40F470BC1564B84C3093CEA5761804FA0650C3 
+{
+	uint16_t ___value__;
+};
+struct ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_Point;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_Normal;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_Impulse;
+	int32_t ___m_ThisColliderInstanceID;
+	int32_t ___m_OtherColliderInstanceID;
+	float ___m_Separation;
+};
+struct ForceMode_t603F3ECB085E4FDD30C91273A469047EA64F4459 
+{
+	int32_t ___value__;
+};
+struct InteractableFarAttachMode_tBEAC1C5CACAB52E0187607733222A3BB64094BF9 
+{
+	int32_t ___value__;
+};
+struct InteractableFocusMode_tD8F528B65B8FA0E9C71F8A7BCABD7F99BA5982CB 
+{
+	int32_t ___value__;
+};
+struct InteractableSelectMode_tEEBF3D8EB75149E3417BDA4C0BC6A1C27BB25AC7 
+{
+	int32_t ___value__;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C  : public RuntimeObject
+{
+	intptr_t ___m_CachedPtr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_pinvoke
+{
+	intptr_t ___m_CachedPtr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_com
+{
+	intptr_t ___m_CachedPtr;
+};
+struct PhysicsMaterialCombine_tA6F01A5CDB952E988FE5EFABC98FD1B7D988DE9A 
+{
+	int32_t ___value__;
+};
+struct Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___position;
+	Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___rotation;
+};
+struct ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD 
+{
+	intptr_t ___m_Ptr;
+};
+struct RaycastHit_t6F30BD0B38B56401CA833A1B87BD74F2ACD2F2B5 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_Point;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_Normal;
+	uint32_t ___m_FaceID;
+	float ___m_Distance;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___m_UV;
+	int32_t ___m_Collider;
+};
+struct RigidbodyInterpolation_tE2BE80352B0D72DB26B81EFD5A0845DEFEE994F8 
+{
+	int32_t ___value__;
+};
+struct RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 
+{
+	intptr_t ___value;
+};
+struct DistanceCalculationMode_tE85298033372A2D44BB92F8728EA55B845089383 
+{
+	int32_t ___value__;
+};
+struct MovementType_t697AC887A071F65C3F1D4575879BE6A7E419CCCF 
+{
+	int32_t ___value__;
+};
+struct Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct ContactPair_t096319945A27108A2DA384393A9ED390BE4356FD 
+{
+	int32_t ___m_ColliderID;
+	int32_t ___m_OtherColliderID;
+	intptr_t ___m_StartPtr;
+	uint32_t ___m_NbPoints;
+	uint16_t ___m_Flags;
+	uint16_t ___m_Events;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_ImpulseSum;
+};
+struct ContactPairHeader_tA8C64AAEEF017149E77A6600B10A10F1A1C5648B 
+{
+	int32_t ___m_BodyID;
+	int32_t ___m_OtherBodyID;
+	intptr_t ___m_StartPtr;
+	uint32_t ___m_NbPairs;
+	uint16_t ___m_Flags;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_RelativeVelocity;
+};
+struct GameObject_t76FEDD663AB33C991A9C9A23129337651094216F  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0  : public RuntimeObject
+{
+	ContactPairHeader_tA8C64AAEEF017149E77A6600B10A10F1A1C5648B ___m_Header;
+	ContactPair_t096319945A27108A2DA384393A9ED390BE4356FD ___m_Pair;
+	bool ___m_Flipped;
+	ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* ___m_LegacyContacts;
+};
+struct Rigidbody_t268697F5A994213ED97393309870968BC1C7393C  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23  : public Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76
+{
+};
+struct MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71  : public Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA
+{
+	CancellationTokenSource_tAAE1E0033BCFC233801F8CB4CED5C852B350CB7B* ___m_CancellationTokenSource;
+};
+struct COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	bool ___isGround;
+	LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB ___interactableLayer;
+	BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* ___courtyardCollider;
+};
+struct GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	float ___mass;
+	float ___drag;
+	float ___angularDrag;
+	bool ___useGravity;
+	LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB ___groundLayer;
+	float ___groundCheckDistance;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___groundCheckOffset;
+	PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* ___cubePhysicsMaterial;
+	Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* ___rb;
+	Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* ___cubeCollider;
+	bool ___isGrounded;
+	XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* ___grabInteractable;
+};
+struct PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	bool ___setupLayersOnStart;
+	String_t* ___groundLayerName;
+	String_t* ___interactableLayerName;
+	String_t* ___playerLayerName;
+	String_t* ___uiLayerName;
+};
+struct PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	float ___globalGravity;
+	bool ___enablePhysicsDebug;
+	float ___maxFallDistance;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___resetPosition;
+	bool ___autoResetFallenObjects;
+	LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB ___groundLayers;
+	float ___groundCheckRadius;
+};
+struct XRBaseInteractable_t76185BD6DF3BC86B3CDD82E6368C3C7157E39AE4  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	Action_1_tB8CA4FD5AE31D22DB74D262F9D03ACFA1C0B2CA8* ___registered;
+	Action_1_tCB862C932EAF49C2968D3AD96CEDF6D2DFED41F0* ___unregistered;
+	Func_3_t3C59F9322C032EF2EC419F9538F86DFC0F4B1421* ___U3CgetDistanceOverrideU3Ek__BackingField;
+	XRInteractionManager_t93C7F7F0CFEAD83E1A70F92D05B0E663483746CD* ___m_InteractionManager;
+	List_1_t58F89DEDCD7DABB0CFB009AAD9C0CFE061592252* ___m_Colliders;
+	InteractionLayerMask_t3B3480A4A5E1E0C43314C0D2CEB3BB39175E1FD4 ___m_InteractionLayers;
+	int32_t ___m_DistanceCalculationMode;
+	int32_t ___m_SelectMode;
+	int32_t ___m_FocusMode;
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___m_CustomReticle;
+	bool ___m_AllowGazeInteraction;
+	bool ___m_AllowGazeSelect;
+	bool ___m_OverrideGazeTimeToSelect;
+	float ___m_GazeTimeToSelect;
+	bool ___m_OverrideTimeToAutoDeselectGaze;
+	float ___m_TimeToAutoDeselectGaze;
+	bool ___m_AllowGazeAssistance;
+	HoverEnterEvent_t2BDBCA14FF94DA18C9AC12B43297F6C1641788AB* ___m_FirstHoverEntered;
+	HoverExitEvent_t256704BC79FE0AA61EB2DE3FDDF43A1FC97F5832* ___m_LastHoverExited;
+	HoverEnterEvent_t2BDBCA14FF94DA18C9AC12B43297F6C1641788AB* ___m_HoverEntered;
+	HoverExitEvent_t256704BC79FE0AA61EB2DE3FDDF43A1FC97F5832* ___m_HoverExited;
+	SelectEnterEvent_tBA2614C8C25D8794D5804C4F66195D74E64FC5D0* ___m_FirstSelectEntered;
+	SelectExitEvent_t15DC0A39F9657BA9E6BAE6250D8D64C9671201F6* ___m_LastSelectExited;
+	SelectEnterEvent_tBA2614C8C25D8794D5804C4F66195D74E64FC5D0* ___m_SelectEntered;
+	SelectExitEvent_t15DC0A39F9657BA9E6BAE6250D8D64C9671201F6* ___m_SelectExited;
+	FocusEnterEvent_tF5369B418FFFBE1C6FDE6EBDDD8B9E412A32CD90* ___m_FirstFocusEntered;
+	FocusExitEvent_tFAE8003B7B5A47FB4D9C5BB14D7A3273AF8931AE* ___m_LastFocusExited;
+	FocusEnterEvent_tF5369B418FFFBE1C6FDE6EBDDD8B9E412A32CD90* ___m_FocusEntered;
+	FocusExitEvent_tFAE8003B7B5A47FB4D9C5BB14D7A3273AF8931AE* ___m_FocusExited;
+	ActivateEvent_tA1D392B588AC99958CB847AE6911DC5131BCFB43* ___m_Activated;
+	DeactivateEvent_tFE44262C3D8377F947FD46D4561BB9DAC7E0785D* ___m_Deactivated;
+	HashSetList_1_tCF3541C1916DB23E3E8D3E2D2C675B59FE3ACBAF* ___m_InteractorsHovering;
+	bool ___U3CisHoveredU3Ek__BackingField;
+	HashSetList_1_t85FA4F6EDCA9A84D235398F53ED390EE2CE4DC98* ___m_InteractorsSelecting;
+	RuntimeObject* ___U3CfirstInteractorSelectingU3Ek__BackingField;
+	bool ___U3CisSelectedU3Ek__BackingField;
+	HashSetList_1_tCE34B4C28F58D67E795B058A35AD8A457BFB1175* ___m_InteractionGroupsFocusing;
+	RuntimeObject* ___U3CfirstInteractionGroupFocusingU3Ek__BackingField;
+	bool ___U3CisFocusedU3Ek__BackingField;
+	List_1_t9A2E2984B23260AECDFA90CEB1F2887075FA4DF3* ___m_StartingHoverFilters;
+	ExposedRegistrationList_1_t11A438A04DF188A3BE1950639AAF0CBFAF9065A5* ___m_HoverFilters;
+	List_1_t9A2E2984B23260AECDFA90CEB1F2887075FA4DF3* ___m_StartingSelectFilters;
+	ExposedRegistrationList_1_t0AF641D8E06922C1FFAF3DA223105F57CE5BC4D8* ___m_SelectFilters;
+	List_1_t9A2E2984B23260AECDFA90CEB1F2887075FA4DF3* ___m_StartingInteractionStrengthFilters;
+	ExposedRegistrationList_1_t7932F633A860258335FD94BBFDE46AC92B1CF84B* ___m_InteractionStrengthFilters;
+	BindableVariable_1_tAB8C2D23769D801C8E39D4AA927DD23AF0E6816C* ___m_LargestInteractionStrength;
+	bool ___m_ClearedLargestInteractionStrength;
+	Dictionary_2_t9B20C3EBA931E014FB6496226DAB71B59F7CC4EC* ___m_AttachPoseOnSelect;
+	Dictionary_2_t9B20C3EBA931E014FB6496226DAB71B59F7CC4EC* ___m_LocalAttachPoseOnSelect;
+	Dictionary_2_t2FB52A1C9A5EF3BE7F06D41CF41259B9A0296ABC* ___m_ReticleCache;
+	HashSetList_1_tC0FA4922B36F37C46BA57A5B55C8B0A1FF78D9A2* ___m_VariableSelectInteractors;
+	Dictionary_2_t1A8FC8C012681D4B964E7A8A383FD3E718078AE9* ___m_InteractionStrengths;
+	XRInteractionManager_t93C7F7F0CFEAD83E1A70F92D05B0E663483746CD* ___m_RegisteredInteractionManager;
+};
+struct XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B  : public XRBaseInteractable_t76185BD6DF3BC86B3CDD82E6368C3C7157E39AE4
+{
+	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___m_AttachTransform;
+	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___m_SecondaryAttachTransform;
+	bool ___m_UseDynamicAttach;
+	bool ___m_MatchAttachPosition;
+	bool ___m_MatchAttachRotation;
+	bool ___m_SnapToColliderVolume;
+	bool ___m_ReinitializeDynamicAttachEverySingleGrab;
+	float ___m_AttachEaseInTime;
+	int32_t ___m_MovementType;
+	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___m_PredictedVisualsTransform;
+	float ___m_VelocityDamping;
+	float ___m_VelocityScale;
+	float ___m_AngularVelocityDamping;
+	float ___m_AngularVelocityScale;
+	bool ___m_TrackPosition;
+	bool ___m_SmoothPosition;
+	float ___m_SmoothPositionAmount;
+	float ___m_TightenPosition;
+	bool ___m_TrackRotation;
+	bool ___m_SmoothRotation;
+	float ___m_SmoothRotationAmount;
+	float ___m_TightenRotation;
+	bool ___m_TrackScale;
+	bool ___m_SmoothScale;
+	float ___m_SmoothScaleAmount;
+	float ___m_TightenScale;
+	bool ___m_ThrowOnDetach;
+	float ___m_ThrowSmoothingDuration;
+	AnimationCurve_tCBFFAAD05CEBB35EF8D8631BD99914BE1A6BB354* ___m_ThrowSmoothingCurve;
+	float ___m_ThrowVelocityScale;
+	float ___m_ThrowAngularVelocityScale;
+	bool ___m_ForceGravityOnDetach;
+	bool ___m_RetainTransformParent;
+	List_1_tCFCD970A7548BC894D178194E5028E3E294AF3B9* ___m_StartingSingleGrabTransformers;
+	List_1_tCFCD970A7548BC894D178194E5028E3E294AF3B9* ___m_StartingMultipleGrabTransformers;
+	bool ___m_AddDefaultGrabTransformers;
+	int32_t ___m_FarAttachMode;
+	bool ___m_LimitLinearVelocity;
+	bool ___m_LimitAngularVelocity;
+	float ___m_MaxLinearVelocityDelta;
+	float ___m_MaxAngularVelocityDelta;
+	bool ___U3CallowVisualAttachTransformU3Ek__BackingField;
+	SmallRegistrationList_1_t748513BBF6769ED01AAD787FF7698EF51EBEF62D* ___m_SingleGrabTransformers;
+	SmallRegistrationList_1_t748513BBF6769ED01AAD787FF7698EF51EBEF62D* ___m_MultipleGrabTransformers;
+	List_1_tB0C796BACCE72002824004B31D3AFE084C3BFC75* ___m_GrabTransformersAddedWhenGrabbed;
+	bool ___m_GrabCountChanged;
+	ValueTuple_2_t973F7AB0EF5DD3619E518A966941F10D8098F52D ___m_GrabCountBeforeAndAfterChange;
+	bool ___m_IsProcessingGrabTransformers;
+	int32_t ___m_DropTransformersCount;
+	Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971 ___m_TargetPose;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_TargetLocalScale;
+	bool ___m_IsTargetPoseDirty;
+	bool ___m_IsTargetLocalScaleDirty;
+	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___m_Transform;
+	float ___m_CurrentAttachEaseTime;
+	int32_t ___m_CurrentMovementType;
+	bool ___m_DetachInLateUpdate;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_DetachLinearVelocity;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_DetachAngularVelocity;
+	int32_t ___m_ThrowSmoothingCurrentFrame;
+	SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___m_ThrowSmoothingFrameTimes;
+	Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* ___m_ThrowSmoothingLinearVelocityFrames;
+	Vector3U5BU5D_tFF1859CCE176131B909E2044F76443064254679C* ___m_ThrowSmoothingAngularVelocityFrames;
+	bool ___m_ThrowSmoothingFirstUpdate;
+	Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971 ___m_LastThrowReferencePose;
+	RuntimeObject* ___m_ThrowAssist;
+	Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* ___m_Rigidbody;
+	bool ___m_RigidbodyColliding;
+	bool ___m_WasKinematic;
+	bool ___m_UsedGravity;
+	int32_t ___m_InterpolationOnGrab;
+	float ___m_LinearDampingOnGrab;
+	float ___m_AngularDampingOnGrab;
+	int32_t ___m_LastFixedFrame;
+	float ___m_LastFixedDynamicTime;
+	Pose_t06BA69EAA6E9FAF60056D519A87D25F54AFE7971 ___m_InitialVisualsTransformLocalPose;
+	bool ___m_InitialVisualsTransformLocalPoseIsIdentity;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_InitialVisualsTransformLocalScale;
+	bool ___m_IgnoringCharacterCollision;
+	bool ___m_StopIgnoringCollisionInLateUpdate;
+	CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* ___m_SelectingCharacterController;
+	HashSet_1_t91EA27B234497F73858A13093DC591352DFD339A* ___m_SelectingCharacterInteractors;
+	List_1_t58F89DEDCD7DABB0CFB009AAD9C0CFE061592252* ___m_RigidbodyColliders;
+	HashSet_1_t109CCE87260348881F7ED50EEE3FFD003542DC8B* ___m_CollidersThatAllowedCharacterCollision;
+	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___m_OriginalSceneParent;
+	TeleportationMonitor_tC9AB34520A1A0D6D2F18DD2067601DE1405C72C6* ___m_TeleportationMonitor;
+	Dictionary_2_tF1266609C0E9EDEC0BE227973F4B2C73474967DD* ___m_DynamicAttachTransforms;
+	Dictionary_2_tF1266609C0E9EDEC0BE227973F4B2C73474967DD* ___m_VisualAttachTransforms;
+};
+struct U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA_StaticFields
+{
+	__StaticArrayInitTypeSizeU3D79_tCB9837134BA4E1342655A0FE43150675D9AFACA0 ___88CC2715ECB3F61CCA2E81393FD4C928CB577A937D6BE1AE2569FA5038F7835A;
+	__StaticArrayInitTypeSizeU3D132_t10FAD9C5C973D0A6AA68EF6B60063C126D303199 ___C01352D7B4646583E3072B7D823A5DEC1CFC80AD41F31C9C23BC4D77AFC82DCA;
+};
+struct String_t_StaticFields
+{
+	String_t* ___Empty;
+};
+struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
+{
+	String_t* ___TrueString;
+	String_t* ___FalseString;
+};
+struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___zeroVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___oneVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___upVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___downVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___leftVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___rightVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___forwardVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___backVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___positiveInfinityVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___negativeInfinityVector;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
+{
+	int32_t ___OffsetOfInstanceIDInCPlusPlusObject;
+};
+struct PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields
+{
+	PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* ___instance;
+};
+struct XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_StaticFields
+{
+	LinkedPool_1_t6A6017AF114EF397084F1333559D0DB9CCE28598* ___s_DropEventArgs;
+	LinkedPool_1_t903D30868AECB20DD006FC2E04DDC68D822C3450* ___s_DynamicAttachTransformPool;
+	ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD ___s_ProcessGrabTransformersMarker;
+};
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+struct ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411  : public RuntimeArray
+{
+	ALIGN_FIELD (8) ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9 m_Items[1];
+
+	inline ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9 GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9 value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9 GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9 value)
+	{
+		m_Items[index] = value;
+	}
+};
+struct StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248  : public RuntimeArray
+{
+	ALIGN_FIELD (8) String_t* m_Items[1];
+
+	inline String_t* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline String_t** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, String_t* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline String_t* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline String_t** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, String_t* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+struct GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF  : public RuntimeArray
+{
+	ALIGN_FIELD (8) GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* m_Items[1];
+
+	inline GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline GameObject_t76FEDD663AB33C991A9C9A23129337651094216F** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline GameObject_t76FEDD663AB33C991A9C9A23129337651094216F** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+struct COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA  : public RuntimeArray
+{
+	ALIGN_FIELD (8) COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* m_Items[1];
+
+	inline COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+struct GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94  : public RuntimeArray
+{
+	ALIGN_FIELD (8) GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* m_Items[1];
+
+	inline GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+struct RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649  : public RuntimeArray
+{
+	ALIGN_FIELD (8) Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* m_Items[1];
+
+	inline Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline Rigidbody_t268697F5A994213ED97393309870968BC1C7393C** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline Rigidbody_t268697F5A994213ED97393309870968BC1C7393C** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031  : public RuntimeArray
+{
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+};
+
+
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* GameObject_AddComponent_TisRuntimeObject_m69B93700FACCF372F5753371C6E8FB780800B824_gshared (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* GameObject_GetComponent_TisRuntimeObject_m6EAED4AA356F0F48288F67899E5958792395563B_gshared (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisRuntimeObject_mC81E41916350ADDDBDCCD36BF28A02A0AB8F6E05_gshared (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, String_t* ___0_layerName, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Object_FindObjectOfType_TisRuntimeObject_m02DFBF011F3B59F777A5E521DB2A116DD496E968_gshared (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* Object_FindObjectsOfType_TisRuntimeObject_m0B4DF4B8AB4C71E0F471BC9D0440B40844DA221D_gshared (const RuntimeMethod* method) ;
+
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void COURTBASE_SetupCourtyardCollider_m9C33222B38282D97CF1F143BFDC454226D335866 (COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* __this, const RuntimeMethod* method) ;
+inline BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* Component_GetComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m59698092F1230C6FB7F40D0F58F643A931A732D7 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
+inline BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* GameObject_AddComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m655518C8454E418FE8CF0E4770881B7A2B12BB23 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method)
+{
+	return ((  BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, const RuntimeMethod*))GameObject_AddComponent_TisRuntimeObject_m69B93700FACCF372F5753371C6E8FB780800B824_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Collider_set_isTrigger_mFCD22F3EB5E28C97863956AB725D53F7F4B7CA78 (Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* __this, bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BoxCollider_set_size_m8374267FDE5DD628973E0E5E1331E781552B855A (BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BoxCollider_set_center_m0AB0482699735FEE8306A7FCAAE66A76C479F0F0 (BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsMaterial__ctor_m778D22F87081502CF8820CCC092931512CA1EBE5 (PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* __this, String_t* ___0_name, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsMaterial_set_dynamicFriction_m59BE25A0D523F1C16E8E5EA3605D5D9C068D6AAE (PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* __this, float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsMaterial_set_staticFriction_m67DE5F3AD796C8AB92871E3A0B7338862BB27B9B (PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* __this, float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsMaterial_set_bounciness_m115EAFCE676550B7AEF1578ADEB6EAC5CEA2F354 (PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* __this, float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsMaterial_set_frictionCombine_m5095E28E658737F90616372006D6FA093DA875DF (PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* __this, int32_t ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsMaterial_set_bounceCombine_mBB851399A0737AF067F4B51D8EF0F629CB53F9AD (PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* __this, int32_t ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Collider_set_material_m2E6C7BEE5FE88DD839FD0BBA83DD501E38B85499 (Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* __this, PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* ___0_value, const RuntimeMethod* method) ;
+inline Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+inline Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* GameObject_AddComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m03A761629A3F71B0248F1B26EF612F592B757093 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method)
+{
+	return ((  Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, const RuntimeMethod*))GameObject_AddComponent_TisRuntimeObject_m69B93700FACCF372F5753371C6E8FB780800B824_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_isKinematic_m6C3FD3EA358DADA3B191F2449CF1C4F8B22695ED (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_useGravity_m1B1B22E093F9DC92D7BEEBBE6B02642B3B6C4389 (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B (String_t* ___0_str0, String_t* ___1_str1, String_t* ___2_str2, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB (RuntimeObject* ___0_message, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* Collision_get_gameObject_m846FADBCA43E1849D3FE4D5EA44C02D055A70B3E (Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* __this, const RuntimeMethod* method) ;
+inline Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method)
+{
+	return ((  Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, const RuntimeMethod*))GameObject_GetComponent_TisRuntimeObject_m6EAED4AA356F0F48288F67899E5958792395563B_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* Collision_get_contacts_m2E8E27E0399230DFA4303A4F4D81C1BD55CBC473 (Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ContactPoint_get_point_mCCDFDACC5D8DB469898060A56A3CC45132911208 (ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline (const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_AddForceAtPosition_m61575E676B16690BEC0FD29841EAD35CC40B642C (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_force, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_position, int32_t ___2_mode, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB LayerMask_op_Implicit_m01C8996A2CB2085328B9C33539C43139660D8222 (int32_t ___0_intVal, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E (MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_SetupPhysics_mC4F7C61C2462F7D2E1B414D4EF9F22974348A5A2 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_SetupGrabInteraction_mAD8075E4D30B4DDEA1006BD96C3C9223D939AD74 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_mass_mC7F886DEDB57C742A16F8B6B779F69AFE164CA4B (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_linearDamping_m42BB8ADA5D26250A11256502D08BDC2DAB980242 (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_angularDamping_m2763171B779080FC724173D87C34015ABED51671 (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, float ___0_value, const RuntimeMethod* method) ;
+inline Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* Component_GetComponent_TisCollider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76_m820398EDBF1D3766C3166A0C323A127662A29A14 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+inline XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* Component_GetComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_m49377F1D0DBAB9BDC59DFC6851E9A5D687717C14 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+inline XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* GameObject_AddComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_mCAA85B78B14B3E0BB825C92803CC5AA40D50A283 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method)
+{
+	return ((  XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, const RuntimeMethod*))GameObject_AddComponent_TisRuntimeObject_m69B93700FACCF372F5753371C6E8FB780800B824_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRGrabInteractable_set_movementType_m3BE09F3CCEF6BC9655F3A811E0FB195E410CA03C (XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* __this, int32_t ___0_value, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void XRGrabInteractable_set_trackPosition_mBB7F302096176B7680B1CCA222A399923D43916F_inline (XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* __this, bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void XRGrabInteractable_set_trackRotation_m9B813A1A7D65E0270FAC6E0BEDBCC90E6DEBF50B_inline (XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* __this, bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_CheckGrounded_m6177C0E1DD7B9B2CE87363663D4CB47615AA5AB8 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_down_mF62B2AE7C5AC31EAC9CB62797C7190C90A7A8599_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t LayerMask_op_Implicit_m7F5A5B9D079281AC445ED39DEE1FCFA9D795810D (LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB ___0_mask, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Physics_Raycast_m56120FFEF0D4F0A44CCA505B5C946E6FB8742F12 (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_origin, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_direction, RaycastHit_t6F30BD0B38B56401CA833A1B87BD74F2ACD2F2B5* ___2_hitInfo, float ___3_maxDistance, int32_t ___4_layerMask, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_linearVelocity_m29AE03D5FC079EAD4202FCF72E2AEBDC19363985 (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GameObject_CompareTag_m6378BE50D009A93D46036F74CC3F7E2ECB0636E5 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, String_t* ___0_tag, const RuntimeMethod* method) ;
+inline COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* GameObject_GetComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mF5DD17AABEBC92404294F47D63DFAECFFA8430AE (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method)
+{
+	return ((  COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, const RuntimeMethod*))GameObject_GetComponent_TisRuntimeObject_m6EAED4AA356F0F48288F67899E5958792395563B_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m9E3155FB84015C823606188F53B47CB44C444991 (String_t* ___0_str0, String_t* ___1_str1, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ContactPoint_get_normal_mD7F0567CA2FD68644F7C6FE318E10C4D15F92AD6 (ContactPoint_t241857959C0D517C21F541BB04B63FA6C1EAB3F9* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline (float ___0_a, float ___1_b, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Vector3_get_magnitude_mF0D6017E90B345F1F52D1CC564C640F1A847AF2D_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_angularVelocity_m23266B4E52BF0D2E65CC984AC73CC40B8D4A27E0 (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_red_mA2E53E7173FDC97E68E335049AB0FAAEE43A844D_inline (const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_green_mEB001F2CD8C68C6BBAEF9101990B779D3AA2A6EF_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_set_color_m53927A2741937484180B20B55F7F20F8F60C5797 (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawLine_mB139054F55D615637A39A3127AADB16043387F8A (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_from, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_to, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawWireSphere_m12C01EC9334C32425074A214C5B876271B3DDBA1 (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_center, float ___1_radius, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_SetupPhysicsLayers_mA3B150B629EE4BAA92979D88EA385D84C9861523 (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_PrintLayerSetupInstructions_m442294B24594861BC032B2A3FC496459F3EC11F4 (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* ___0_values, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_AssignLayerToObjectsWithTag_m988AA883186AC2BDCC7BF0284E85279CE3D5A4AB (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, String_t* ___0_tag, String_t* ___1_layerName, const RuntimeMethod* method) ;
+inline void PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_m94D533D749C927A8897789C193B69184C14C1A1B (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, String_t* ___0_layerName, const RuntimeMethod* method)
+{
+	((  void (*) (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E*, String_t*, const RuntimeMethod*))PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisRuntimeObject_mC81E41916350ADDDBDCCD36BF28A02A0AB8F6E05_gshared)(__this, ___0_layerName, method);
+}
+inline void PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC752E2FE51DC497DCAFDF1BE9046B7588C6A8CA3 (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, String_t* ___0_layerName, const RuntimeMethod* method)
+{
+	((  void (*) (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E*, String_t*, const RuntimeMethod*))PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisRuntimeObject_mC81E41916350ADDDBDCCD36BF28A02A0AB8F6E05_gshared)(__this, ___0_layerName, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* GameObject_FindGameObjectsWithTag_mB8AA805DA664EF0221BB338446014F662771B4E3 (String_t* ___0_tag, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t LayerMask_NameToLayer_m2764C530EDA9EC3226A36E3FD43E020B413AF139 (String_t* ___0_layerName, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9 (RuntimeObject* ___0_message, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject_set_layer_m6E1AF478A2CC86BD222B96317BEB78B7D89B18D0 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, int32_t ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m093934F71A9B351911EE46311674ED463B180006 (String_t* ___0_str0, String_t* ___1_str1, String_t* ___2_str2, String_t* ___3_str3, const RuntimeMethod* method) ;
+inline PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* Object_FindObjectOfType_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_m5272DDF587C5904D71C169C8665EA721F15225EE (const RuntimeMethod* method)
+{
+	return ((  PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* (*) (const RuntimeMethod*))Object_FindObjectOfType_TisRuntimeObject_m02DFBF011F3B59F777A5E521DB2A116DD496E968_gshared)(method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, String_t* ___0_name, const RuntimeMethod* method) ;
+inline PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* GameObject_AddComponent_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_mD34F5ECBD3F7F7118B8387FFF3ADAB83776539D1 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method)
+{
+	return ((  PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, const RuntimeMethod*))GameObject_AddComponent_TisRuntimeObject_m69B93700FACCF372F5753371C6E8FB780800B824_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_DontDestroyOnLoad_m4B70C3AEF886C176543D1295507B6455C9DCAEA7 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_target, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_obj, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_SetupGlobalPhysics_mD41B0B47ED72EACC4F4FA308D5D4494028F30503 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_ConfigureScenePhysics_mFC6565481B29B0116707018472B056C102A45CE0 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_CheckForFallenObjects_m2806F0D7684985A121FEA8FD67C83D873A380759 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Physics_set_gravity_mAEF3D6B45E6E567F04244C7889366CACCB4F1952 (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Physics_set_defaultSolverIterations_mB0A33680F0181471737C776367CB8F9F9F275B50 (int32_t ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Physics_set_defaultSolverVelocityIterations_mD05B7ED682A3A670258473C5A796DD430D15BCD2 (int32_t ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Physics_set_bounceThreshold_m12BD6903B10DCA2606B6E9426F41FAE2DD015456 (float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Physics_set_sleepThreshold_m4C6D94024F0508934D79633DDC20F77C8D28DFC7 (float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Physics_set_defaultContactOffset_m81A4A3C4CB07A1DC86F5A8B53DE4A137985D4C49 (float ___0_value, const RuntimeMethod* method) ;
+inline COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* Object_FindObjectsOfType_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mB45FD2B81374715B46E949E725614703DC84F95B (const RuntimeMethod* method)
+{
+	return ((  COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* (*) (const RuntimeMethod*))Object_FindObjectsOfType_TisRuntimeObject_m0B4DF4B8AB4C71E0F471BC9D0440B40844DA221D_gshared)(method);
+}
+inline GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* Object_FindObjectsOfType_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC199CDF653D38ECA1356CE666A45EE3F68C7DF47 (const RuntimeMethod* method)
+{
+	return ((  GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* (*) (const RuntimeMethod*))Object_FindObjectsOfType_TisRuntimeObject_m0B4DF4B8AB4C71E0F471BC9D0440B40844DA221D_gshared)(method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987 (String_t* ___0_format, RuntimeObject* ___1_arg0, RuntimeObject* ___2_arg1, const RuntimeMethod* method) ;
+inline RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649* Object_FindObjectsOfType_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_mBE599DB26D8EE325527D3181606AC854B2FC7D5B (const RuntimeMethod* method)
+{
+	return ((  RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649* (*) (const RuntimeMethod*))Object_FindObjectsOfType_TisRuntimeObject_m0B4DF4B8AB4C71E0F471BC9D0440B40844DA221D_gshared)(method);
+}
+inline GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* GameObject_GetComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_m82065CC88786F89B1664AC179994DFB868F4889B (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method)
+{
+	return ((  GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* (*) (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*, const RuntimeMethod*))GameObject_GetComponent_TisRuntimeObject_m6EAED4AA356F0F48288F67899E5958792395563B_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_ResetObjectPosition_mC8A97146BC78A385AC5326CF06A9FAC44684B02E (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_obj, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_AddForce_mBDBC288D0E266BC1B62E3649B4FCE46E7EA9CCBC (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_force, int32_t ___1_mode, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_yellow_m66637FA14383E8D74F24AE256B577CE1D55D469F_inline (const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_one_mC9B289F1E15C42C597180C9FE6FB492495B51D02_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawWireCube_m343533B3955A2D04A8638280D0EF537274A1FD8B (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_center, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_size, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B (RuntimeArray* ___0_array, RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 ___1_fldHandle, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F* __this, float ___0_r, float ___1_g, float ___2_b, float ___3_a, const RuntimeMethod* method) ;
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 77433
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void COURTBASE_Start_mD2B8061FC418E8FD3FE376187BE1ED4F923C5EE2 (COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:15>
+		COURTBASE_SetupCourtyardCollider_m9C33222B38282D97CF1F143BFDC454226D335866(__this, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:16>
+		return;
+	}
+}
+// Method Definition Index: 77434
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void COURTBASE_SetupCourtyardCollider_m9C33222B38282D97CF1F143BFDC454226D335866 (COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m59698092F1230C6FB7F40D0F58F643A931A732D7_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_AddComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m655518C8454E418FE8CF0E4770881B7A2B12BB23_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_AddComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m03A761629A3F71B0248F1B26EF612F592B757093_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral488377B1C04BA5D6C67A1E6658E73B8B1023C90E);
+		s_Il2CppMethodInitialized = true;
+	}
+	PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* V_0 = NULL;
+	Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* V_1 = NULL;
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:21>
+		BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* L_0;
+		L_0 = Component_GetComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m59698092F1230C6FB7F40D0F58F643A931A732D7(__this, Component_GetComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m59698092F1230C6FB7F40D0F58F643A931A732D7_RuntimeMethod_var);
+		__this->___courtyardCollider = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___courtyardCollider), (void*)L_0);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:23>
+		BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* L_1 = __this->___courtyardCollider;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_1, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_2)
+		{
+			goto IL_002b;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:25>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3;
+		L_3 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
+		NullCheck(L_3);
+		BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* L_4;
+		L_4 = GameObject_AddComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m655518C8454E418FE8CF0E4770881B7A2B12BB23(L_3, GameObject_AddComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m655518C8454E418FE8CF0E4770881B7A2B12BB23_RuntimeMethod_var);
+		__this->___courtyardCollider = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___courtyardCollider), (void*)L_4);
+	}
+
+IL_002b:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:29>
+		bool L_5 = __this->___isGround;
+		if (!L_5)
+		{
+			goto IL_007d;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:31>
+		BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* L_6 = __this->___courtyardCollider;
+		NullCheck(L_6);
+		Collider_set_isTrigger_mFCD22F3EB5E28C97863956AB725D53F7F4B7CA78(L_6, (bool)0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:32>
+		BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* L_7 = __this->___courtyardCollider;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_8;
+		memset((&L_8), 0, sizeof(L_8));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_8), (20.0f), (0.100000001f), (20.0f), NULL);
+		NullCheck(L_7);
+		BoxCollider_set_size_m8374267FDE5DD628973E0E5E1331E781552B855A(L_7, L_8, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:33>
+		BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* L_9 = __this->___courtyardCollider;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10;
+		memset((&L_10), 0, sizeof(L_10));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_10), (0.0f), (-0.0500000007f), (0.0f), NULL);
+		NullCheck(L_9);
+		BoxCollider_set_center_m0AB0482699735FEE8306A7FCAAE66A76C479F0F0(L_9, L_10, NULL);
+	}
+
+IL_007d:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:37>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_11 = (PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C*)il2cpp_codegen_object_new(PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C_il2cpp_TypeInfo_var);
+		PhysicsMaterial__ctor_m778D22F87081502CF8820CCC092931512CA1EBE5(L_11, _stringLiteral488377B1C04BA5D6C67A1E6658E73B8B1023C90E, NULL);
+		V_0 = L_11;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:38>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_12 = V_0;
+		NullCheck(L_12);
+		PhysicsMaterial_set_dynamicFriction_m59BE25A0D523F1C16E8E5EA3605D5D9C068D6AAE(L_12, (0.600000024f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:39>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_13 = V_0;
+		NullCheck(L_13);
+		PhysicsMaterial_set_staticFriction_m67DE5F3AD796C8AB92871E3A0B7338862BB27B9B(L_13, (0.600000024f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:40>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_14 = V_0;
+		NullCheck(L_14);
+		PhysicsMaterial_set_bounciness_m115EAFCE676550B7AEF1578ADEB6EAC5CEA2F354(L_14, (0.100000001f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:41>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_15 = V_0;
+		NullCheck(L_15);
+		PhysicsMaterial_set_frictionCombine_m5095E28E658737F90616372006D6FA093DA875DF(L_15, 0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:42>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_16 = V_0;
+		NullCheck(L_16);
+		PhysicsMaterial_set_bounceCombine_mBB851399A0737AF067F4B51D8EF0F629CB53F9AD(L_16, 2, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:44>
+		BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* L_17 = __this->___courtyardCollider;
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_18 = V_0;
+		NullCheck(L_17);
+		Collider_set_material_m2E6C7BEE5FE88DD839FD0BBA83DD501E38B85499(L_17, L_18, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:47>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_19;
+		L_19 = Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8(__this, Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
+		V_1 = L_19;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:48>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_20 = V_1;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_21;
+		L_21 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_20, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_21)
+		{
+			goto IL_00df;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:50>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_22;
+		L_22 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
+		NullCheck(L_22);
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_23;
+		L_23 = GameObject_AddComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m03A761629A3F71B0248F1B26EF612F592B757093(L_22, GameObject_AddComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m03A761629A3F71B0248F1B26EF612F592B757093_RuntimeMethod_var);
+		V_1 = L_23;
+	}
+
+IL_00df:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:52>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_24 = V_1;
+		NullCheck(L_24);
+		Rigidbody_set_isKinematic_m6C3FD3EA358DADA3B191F2449CF1C4F8B22695ED(L_24, (bool)1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:53>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_25 = V_1;
+		NullCheck(L_25);
+		Rigidbody_set_useGravity_m1B1B22E093F9DC92D7BEEBBE6B02642B3B6C4389(L_25, (bool)0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:54>
+		return;
+	}
+}
+// Method Definition Index: 77435
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void COURTBASE_OnTriggerEnter_m0FF8C53147FAAA570654D545E846B165D331D180 (COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* __this, Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* ___0_other, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral91016FBC75291537623A8681D8FB536566858F5A);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCF4CA5BD68FEE49BE8BDEBD46F7B8080E34E1A88);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:59>
+		bool L_0 = __this->___isGround;
+		if (L_0)
+		{
+			goto IL_0022;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:62>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_1 = ___0_other;
+		NullCheck(L_1);
+		String_t* L_2;
+		L_2 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_1, NULL);
+		String_t* L_3;
+		L_3 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(_stringLiteral91016FBC75291537623A8681D8FB536566858F5A, L_2, _stringLiteralCF4CA5BD68FEE49BE8BDEBD46F7B8080E34E1A88, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_3, NULL);
+	}
+
+IL_0022:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:64>
+		return;
+	}
+}
+// Method Definition Index: 77436
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void COURTBASE_OnCollisionEnter_m388F64C71F298FF88A39DC52943DECD3DEC32FA1 (COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* __this, Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* ___0_collision, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7F1E81A5C424B0C2123E292E059073D9F6A63CAF);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral91016FBC75291537623A8681D8FB536566858F5A);
+		s_Il2CppMethodInitialized = true;
+	}
+	Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* V_0 = NULL;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_1;
+	memset((&V_1), 0, sizeof(V_1));
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_2;
+	memset((&V_2), 0, sizeof(V_2));
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:69>
+		bool L_0 = __this->___isGround;
+		if (!L_0)
+		{
+			goto IL_0067;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:71>
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_1 = ___0_collision;
+		NullCheck(L_1);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2;
+		L_2 = Collision_get_gameObject_m846FADBCA43E1849D3FE4D5EA44C02D055A70B3E(L_1, NULL);
+		NullCheck(L_2);
+		String_t* L_3;
+		L_3 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_2, NULL);
+		String_t* L_4;
+		L_4 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(_stringLiteral91016FBC75291537623A8681D8FB536566858F5A, L_3, _stringLiteral7F1E81A5C424B0C2123E292E059073D9F6A63CAF, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_4, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:74>
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_5 = ___0_collision;
+		NullCheck(L_5);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6;
+		L_6 = Collision_get_gameObject_m846FADBCA43E1849D3FE4D5EA44C02D055A70B3E(L_5, NULL);
+		NullCheck(L_6);
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_7;
+		L_7 = GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90(L_6, GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90_RuntimeMethod_var);
+		V_0 = L_7;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:75>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_8 = V_0;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_9;
+		L_9 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_8, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_9)
+		{
+			goto IL_0067;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:78>
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_10 = ___0_collision;
+		NullCheck(L_10);
+		ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* L_11;
+		L_11 = Collision_get_contacts_m2E8E27E0399230DFA4303A4F4D81C1BD55CBC473(L_10, NULL);
+		NullCheck(L_11);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_12;
+		L_12 = ContactPoint_get_point_mCCDFDACC5D8DB469898060A56A3CC45132911208(((L_11)->GetAddressAt(static_cast<il2cpp_array_size_t>(0))), NULL);
+		V_1 = L_12;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:79>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13;
+		L_13 = Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline(NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_14;
+		L_14 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_13, (0.100000001f), NULL);
+		V_2 = L_14;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:80>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_15 = V_0;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_16 = V_2;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_17 = V_1;
+		NullCheck(L_15);
+		Rigidbody_AddForceAtPosition_m61575E676B16690BEC0FD29841EAD35CC40B642C(L_15, L_16, L_17, 1, NULL);
+	}
+
+IL_0067:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:83>
+		return;
+	}
+}
+// Method Definition Index: 77437
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void COURTBASE_Update_m39CF2DF796BE627F8B2B738FAF8B0ACE5D6105D9 (COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:89>
+		return;
+	}
+}
+// Method Definition Index: 77438
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void COURTBASE__ctor_mB1696F3412551B7FA3A6C45314A8F728837C65DD (COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:7>
+		__this->___isGround = (bool)1;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/COURT BASE.cs:8>
+		LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB L_0;
+		L_0 = LayerMask_op_Implicit_m01C8996A2CB2085328B9C33539C43139660D8222((-1), NULL);
+		__this->___interactableLayer = L_0;
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 77439
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_Start_m0EDA1166B098272257E57CDE3D77B0ADC9EA77D0 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:29>
+		GrabCubePhysics_SetupPhysics_mC4F7C61C2462F7D2E1B414D4EF9F22974348A5A2(__this, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:30>
+		GrabCubePhysics_SetupGrabInteraction_mAD8075E4D30B4DDEA1006BD96C3C9223D939AD74(__this, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:31>
+		return;
+	}
+}
+// Method Definition Index: 77440
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_SetupPhysics_mC4F7C61C2462F7D2E1B414D4EF9F22974348A5A2 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisCollider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76_m820398EDBF1D3766C3166A0C323A127662A29A14_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_AddComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m655518C8454E418FE8CF0E4770881B7A2B12BB23_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_AddComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m03A761629A3F71B0248F1B26EF612F592B757093_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral28CEE2ECA1F7C1E3D72A13C9AD8B8D76E7D5A162);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:36>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_0;
+		L_0 = Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8(__this, Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
+		__this->___rb = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___rb), (void*)L_0);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:37>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_1 = __this->___rb;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_1, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_2)
+		{
+			goto IL_002b;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:39>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3;
+		L_3 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
+		NullCheck(L_3);
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_4;
+		L_4 = GameObject_AddComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m03A761629A3F71B0248F1B26EF612F592B757093(L_3, GameObject_AddComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m03A761629A3F71B0248F1B26EF612F592B757093_RuntimeMethod_var);
+		__this->___rb = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___rb), (void*)L_4);
+	}
+
+IL_002b:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:43>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_5 = __this->___rb;
+		float L_6 = __this->___mass;
+		NullCheck(L_5);
+		Rigidbody_set_mass_mC7F886DEDB57C742A16F8B6B779F69AFE164CA4B(L_5, L_6, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:44>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_7 = __this->___rb;
+		float L_8 = __this->___drag;
+		NullCheck(L_7);
+		Rigidbody_set_linearDamping_m42BB8ADA5D26250A11256502D08BDC2DAB980242(L_7, L_8, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:45>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_9 = __this->___rb;
+		float L_10 = __this->___angularDrag;
+		NullCheck(L_9);
+		Rigidbody_set_angularDamping_m2763171B779080FC724173D87C34015ABED51671(L_9, L_10, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:46>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_11 = __this->___rb;
+		bool L_12 = __this->___useGravity;
+		NullCheck(L_11);
+		Rigidbody_set_useGravity_m1B1B22E093F9DC92D7BEEBBE6B02642B3B6C4389(L_11, L_12, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:47>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_13 = __this->___rb;
+		NullCheck(L_13);
+		Rigidbody_set_isKinematic_m6C3FD3EA358DADA3B191F2449CF1C4F8B22695ED(L_13, (bool)0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:50>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_14;
+		L_14 = Component_GetComponent_TisCollider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76_m820398EDBF1D3766C3166A0C323A127662A29A14(__this, Component_GetComponent_TisCollider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76_m820398EDBF1D3766C3166A0C323A127662A29A14_RuntimeMethod_var);
+		__this->___cubeCollider = L_14;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___cubeCollider), (void*)L_14);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:51>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_15 = __this->___cubeCollider;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_16;
+		L_16 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_15, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_16)
+		{
+			goto IL_00a6;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:53>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_17;
+		L_17 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
+		NullCheck(L_17);
+		BoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23* L_18;
+		L_18 = GameObject_AddComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m655518C8454E418FE8CF0E4770881B7A2B12BB23(L_17, GameObject_AddComponent_TisBoxCollider_tFA5D239388334D6DE0B8FFDAD6825C5B03786E23_m655518C8454E418FE8CF0E4770881B7A2B12BB23_RuntimeMethod_var);
+		__this->___cubeCollider = L_18;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___cubeCollider), (void*)L_18);
+	}
+
+IL_00a6:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:57>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_19 = __this->___cubeCollider;
+		NullCheck(L_19);
+		Collider_set_isTrigger_mFCD22F3EB5E28C97863956AB725D53F7F4B7CA78(L_19, (bool)0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:60>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_20 = __this->___cubePhysicsMaterial;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_21;
+		L_21 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_20, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_21)
+		{
+			goto IL_0118;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:62>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_22 = (PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C*)il2cpp_codegen_object_new(PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C_il2cpp_TypeInfo_var);
+		PhysicsMaterial__ctor_m778D22F87081502CF8820CCC092931512CA1EBE5(L_22, _stringLiteral28CEE2ECA1F7C1E3D72A13C9AD8B8D76E7D5A162, NULL);
+		__this->___cubePhysicsMaterial = L_22;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___cubePhysicsMaterial), (void*)L_22);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:63>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_23 = __this->___cubePhysicsMaterial;
+		NullCheck(L_23);
+		PhysicsMaterial_set_dynamicFriction_m59BE25A0D523F1C16E8E5EA3605D5D9C068D6AAE(L_23, (0.300000012f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:64>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_24 = __this->___cubePhysicsMaterial;
+		NullCheck(L_24);
+		PhysicsMaterial_set_staticFriction_m67DE5F3AD796C8AB92871E3A0B7338862BB27B9B(L_24, (0.300000012f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:65>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_25 = __this->___cubePhysicsMaterial;
+		NullCheck(L_25);
+		PhysicsMaterial_set_bounciness_m115EAFCE676550B7AEF1578ADEB6EAC5CEA2F354(L_25, (0.100000001f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:66>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_26 = __this->___cubePhysicsMaterial;
+		NullCheck(L_26);
+		PhysicsMaterial_set_frictionCombine_m5095E28E658737F90616372006D6FA093DA875DF(L_26, 0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:67>
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_27 = __this->___cubePhysicsMaterial;
+		NullCheck(L_27);
+		PhysicsMaterial_set_bounceCombine_mBB851399A0737AF067F4B51D8EF0F629CB53F9AD(L_27, 2, NULL);
+	}
+
+IL_0118:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:70>
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_28 = __this->___cubeCollider;
+		PhysicsMaterial_t2949C5AB81E97E3B99B71EAFA5966CB89A9BEB1C* L_29 = __this->___cubePhysicsMaterial;
+		NullCheck(L_28);
+		Collider_set_material_m2E6C7BEE5FE88DD839FD0BBA83DD501E38B85499(L_28, L_29, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:71>
+		return;
+	}
+}
+// Method Definition Index: 77441
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_SetupGrabInteraction_mAD8075E4D30B4DDEA1006BD96C3C9223D939AD74 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_m49377F1D0DBAB9BDC59DFC6851E9A5D687717C14_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_AddComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_mCAA85B78B14B3E0BB825C92803CC5AA40D50A283_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:76>
+		XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* L_0;
+		L_0 = Component_GetComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_m49377F1D0DBAB9BDC59DFC6851E9A5D687717C14(__this, Component_GetComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_m49377F1D0DBAB9BDC59DFC6851E9A5D687717C14_RuntimeMethod_var);
+		__this->___grabInteractable = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___grabInteractable), (void*)L_0);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:77>
+		XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* L_1 = __this->___grabInteractable;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_1, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_2)
+		{
+			goto IL_002b;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:79>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3;
+		L_3 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
+		NullCheck(L_3);
+		XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* L_4;
+		L_4 = GameObject_AddComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_mCAA85B78B14B3E0BB825C92803CC5AA40D50A283(L_3, GameObject_AddComponent_TisXRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B_mCAA85B78B14B3E0BB825C92803CC5AA40D50A283_RuntimeMethod_var);
+		__this->___grabInteractable = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___grabInteractable), (void*)L_4);
+	}
+
+IL_002b:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:83>
+		XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* L_5 = __this->___grabInteractable;
+		NullCheck(L_5);
+		XRGrabInteractable_set_movementType_m3BE09F3CCEF6BC9655F3A811E0FB195E410CA03C(L_5, 0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:84>
+		XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* L_6 = __this->___grabInteractable;
+		NullCheck(L_6);
+		XRGrabInteractable_set_trackPosition_mBB7F302096176B7680B1CCA222A399923D43916F_inline(L_6, (bool)1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:85>
+		XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* L_7 = __this->___grabInteractable;
+		NullCheck(L_7);
+		XRGrabInteractable_set_trackRotation_m9B813A1A7D65E0270FAC6E0BEDBCC90E6DEBF50B_inline(L_7, (bool)1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:86>
+		return;
+	}
+}
+// Method Definition Index: 77442
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_Update_m25A10993B942229F88A3B5D7120EF8F8D3BE538C (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:90>
+		GrabCubePhysics_CheckGrounded_m6177C0E1DD7B9B2CE87363663D4CB47615AA5AB8(__this, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:91>
+		return;
+	}
+}
+// Method Definition Index: 77443
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_CheckGrounded_m6177C0E1DD7B9B2CE87363663D4CB47615AA5AB8 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	RaycastHit_t6F30BD0B38B56401CA833A1B87BD74F2ACD2F2B5 V_1;
+	memset((&V_1), 0, sizeof(V_1));
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:96>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0;
+		L_0 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		NullCheck(L_0);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1;
+		L_1 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_0, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2 = __this->___groundCheckOffset;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3;
+		L_3 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_1, L_2, NULL);
+		V_0 = L_3;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:99>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4 = V_0;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5;
+		L_5 = Vector3_get_down_mF62B2AE7C5AC31EAC9CB62797C7190C90A7A8599_inline(NULL);
+		float L_6 = __this->___groundCheckDistance;
+		LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB L_7 = __this->___groundLayer;
+		int32_t L_8;
+		L_8 = LayerMask_op_Implicit_m7F5A5B9D079281AC445ED39DEE1FCFA9D795810D(L_7, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
+		bool L_9;
+		L_9 = Physics_Raycast_m56120FFEF0D4F0A44CCA505B5C946E6FB8742F12(L_4, L_5, (&V_1), L_6, L_8, NULL);
+		__this->___isGrounded = L_9;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:101>
+		bool L_10 = __this->___isGrounded;
+		if (!L_10)
+		{
+			goto IL_00a6;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:104>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_11 = __this->___rb;
+		NullCheck(L_11);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_12;
+		L_12 = Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C(L_11, NULL);
+		float L_13 = L_12.___y;
+		if ((!(((float)L_13) < ((float)(0.100000001f)))))
+		{
+			goto IL_00a6;
+		}
+	}
+	{
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_14 = __this->___rb;
+		NullCheck(L_14);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_15;
+		L_15 = Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C(L_14, NULL);
+		float L_16 = L_15.___y;
+		if ((!(((float)L_16) > ((float)(-0.100000001f)))))
+		{
+			goto IL_00a6;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:106>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_17 = __this->___rb;
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_18 = __this->___rb;
+		NullCheck(L_18);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_19;
+		L_19 = Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C(L_18, NULL);
+		float L_20 = L_19.___x;
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_21 = __this->___rb;
+		NullCheck(L_21);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_22;
+		L_22 = Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C(L_21, NULL);
+		float L_23 = L_22.___z;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_24;
+		memset((&L_24), 0, sizeof(L_24));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_24), L_20, (0.0f), L_23, NULL);
+		NullCheck(L_17);
+		Rigidbody_set_linearVelocity_m29AE03D5FC079EAD4202FCF72E2AEBDC19363985(L_17, L_24, NULL);
+	}
+
+IL_00a6:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:109>
+		return;
+	}
+}
+// Method Definition Index: 77444
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_OnCollisionEnter_m87DD90548BD6272590140CB666FD492DAAB79298 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* ___0_collision, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_GetComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mF5DD17AABEBC92404294F47D63DFAECFFA8430AE_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralFBE0F1F7132BE7E8D346561582010D20033C7B42);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:114>
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:115>
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_0 = ___0_collision;
+		NullCheck(L_0);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1;
+		L_1 = Collision_get_gameObject_m846FADBCA43E1849D3FE4D5EA44C02D055A70B3E(L_0, NULL);
+		NullCheck(L_1);
+		bool L_2;
+		L_2 = GameObject_CompareTag_m6378BE50D009A93D46036F74CC3F7E2ECB0636E5(L_1, _stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A, NULL);
+		if (L_2)
+		{
+			goto IL_0028;
+		}
+	}
+	{
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_3 = ___0_collision;
+		NullCheck(L_3);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4;
+		L_4 = Collision_get_gameObject_m846FADBCA43E1849D3FE4D5EA44C02D055A70B3E(L_3, NULL);
+		NullCheck(L_4);
+		COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* L_5;
+		L_5 = GameObject_GetComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mF5DD17AABEBC92404294F47D63DFAECFFA8430AE(L_4, GameObject_GetComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mF5DD17AABEBC92404294F47D63DFAECFFA8430AE_RuntimeMethod_var);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_6;
+		L_6 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_5, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_6)
+		{
+			goto IL_00bb;
+		}
+	}
+
+IL_0028:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:117>
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_7 = ___0_collision;
+		NullCheck(L_7);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_8;
+		L_8 = Collision_get_gameObject_m846FADBCA43E1849D3FE4D5EA44C02D055A70B3E(L_7, NULL);
+		NullCheck(L_8);
+		String_t* L_9;
+		L_9 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_8, NULL);
+		String_t* L_10;
+		L_10 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteralFBE0F1F7132BE7E8D346561582010D20033C7B42, L_9, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_10, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:120>
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_11 = ___0_collision;
+		NullCheck(L_11);
+		ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* L_12;
+		L_12 = Collision_get_contacts_m2E8E27E0399230DFA4303A4F4D81C1BD55CBC473(L_11, NULL);
+		NullCheck(L_12);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13;
+		L_13 = ContactPoint_get_point_mCCDFDACC5D8DB469898060A56A3CC45132911208(((L_12)->GetAddressAt(static_cast<il2cpp_array_size_t>(0))), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:121>
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_14 = ___0_collision;
+		NullCheck(L_14);
+		ContactPointU5BU5D_t3570603E8D0685B71B3D8BA07031674B00C5E411* L_15;
+		L_15 = Collision_get_contacts_m2E8E27E0399230DFA4303A4F4D81C1BD55CBC473(L_14, NULL);
+		NullCheck(L_15);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_16;
+		L_16 = ContactPoint_get_normal_mD7F0567CA2FD68644F7C6FE318E10C4D15F92AD6(((L_15)->GetAddressAt(static_cast<il2cpp_array_size_t>(0))), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:124>
+		float L_17 = L_16.___y;
+		if ((!(((float)L_17) > ((float)(0.699999988f)))))
+		{
+			goto IL_00bb;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:126>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_18 = __this->___rb;
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_19 = __this->___rb;
+		NullCheck(L_19);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_20;
+		L_20 = Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C(L_19, NULL);
+		float L_21 = L_20.___x;
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_22 = __this->___rb;
+		NullCheck(L_22);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_23;
+		L_23 = Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C(L_22, NULL);
+		float L_24 = L_23.___y;
+		float L_25;
+		L_25 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline((0.0f), L_24, NULL);
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_26 = __this->___rb;
+		NullCheck(L_26);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_27;
+		L_27 = Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C(L_26, NULL);
+		float L_28 = L_27.___z;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_29;
+		memset((&L_29), 0, sizeof(L_29));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_29), L_21, L_25, L_28, NULL);
+		NullCheck(L_18);
+		Rigidbody_set_linearVelocity_m29AE03D5FC079EAD4202FCF72E2AEBDC19363985(L_18, L_29, NULL);
+	}
+
+IL_00bb:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:129>
+		return;
+	}
+}
+// Method Definition Index: 77445
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_OnCollisionStay_m53712FF20D663482916D0ADD4740FDB71A25C1AD (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* ___0_collision, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_GetComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mF5DD17AABEBC92404294F47D63DFAECFFA8430AE_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:134>
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:135>
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_0 = ___0_collision;
+		NullCheck(L_0);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1;
+		L_1 = Collision_get_gameObject_m846FADBCA43E1849D3FE4D5EA44C02D055A70B3E(L_0, NULL);
+		NullCheck(L_1);
+		bool L_2;
+		L_2 = GameObject_CompareTag_m6378BE50D009A93D46036F74CC3F7E2ECB0636E5(L_1, _stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A, NULL);
+		if (L_2)
+		{
+			goto IL_0025;
+		}
+	}
+	{
+		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_3 = ___0_collision;
+		NullCheck(L_3);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_4;
+		L_4 = Collision_get_gameObject_m846FADBCA43E1849D3FE4D5EA44C02D055A70B3E(L_3, NULL);
+		NullCheck(L_4);
+		COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* L_5;
+		L_5 = GameObject_GetComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mF5DD17AABEBC92404294F47D63DFAECFFA8430AE(L_4, GameObject_GetComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mF5DD17AABEBC92404294F47D63DFAECFFA8430AE_RuntimeMethod_var);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_6;
+		L_6 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_5, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_6)
+		{
+			goto IL_004f;
+		}
+	}
+
+IL_0025:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:138>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_7 = __this->___rb;
+		NullCheck(L_7);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_8;
+		L_8 = Rigidbody_get_linearVelocity_m367F5415641E5FB968440A91BAE2FCB8CAEA2C8C(L_7, NULL);
+		V_0 = L_8;
+		float L_9;
+		L_9 = Vector3_get_magnitude_mF0D6017E90B345F1F52D1CC564C640F1A847AF2D_inline((&V_0), NULL);
+		if ((!(((float)L_9) < ((float)(0.100000001f)))))
+		{
+			goto IL_004f;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:140>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_10 = __this->___rb;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11;
+		L_11 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
+		NullCheck(L_10);
+		Rigidbody_set_linearVelocity_m29AE03D5FC079EAD4202FCF72E2AEBDC19363985(L_10, L_11, NULL);
+	}
+
+IL_004f:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:143>
+		return;
+	}
+}
+// Method Definition Index: 77446
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_ResetPosition_mFBA9D5CBA85A2D1358F6A42C219C2ABF652B6712 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_resetPosition, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:148>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_0 = __this->___rb;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1;
+		L_1 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
+		NullCheck(L_0);
+		Rigidbody_set_linearVelocity_m29AE03D5FC079EAD4202FCF72E2AEBDC19363985(L_0, L_1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:149>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_2 = __this->___rb;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3;
+		L_3 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
+		NullCheck(L_2);
+		Rigidbody_set_angularVelocity_m23266B4E52BF0D2E65CC984AC73CC40B8D4A27E0(L_2, L_3, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:150>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4;
+		L_4 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5 = ___0_resetPosition;
+		NullCheck(L_4);
+		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_4, L_5, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:151>
+		return;
+	}
+}
+// Method Definition Index: 77447
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics_OnDrawGizmosSelected_m6F21350A24D953DE37E42DA9D29B9A3597017457 (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) 
+{
+	Color_tD001788D726C3A7F1379BEED0260B9591F440C1F G_B3_0;
+	memset((&G_B3_0), 0, sizeof(G_B3_0));
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:156>
+		bool L_0 = __this->___isGrounded;
+		if (L_0)
+		{
+			goto IL_000f;
+		}
+	}
+	{
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_1;
+		L_1 = Color_get_red_mA2E53E7173FDC97E68E335049AB0FAAEE43A844D_inline(NULL);
+		G_B3_0 = L_1;
+		goto IL_0014;
+	}
+
+IL_000f:
+	{
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_2;
+		L_2 = Color_get_green_mEB001F2CD8C68C6BBAEF9101990B779D3AA2A6EF_inline(NULL);
+		G_B3_0 = L_2;
+	}
+
+IL_0014:
+	{
+		Gizmos_set_color_m53927A2741937484180B20B55F7F20F8F60C5797(G_B3_0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:157>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_3;
+		L_3 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		NullCheck(L_3);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4;
+		L_4 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_3, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5 = __this->___groundCheckOffset;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6;
+		L_6 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_4, L_5, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:158>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7 = L_6;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_8 = L_7;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9;
+		L_9 = Vector3_get_down_mF62B2AE7C5AC31EAC9CB62797C7190C90A7A8599_inline(NULL);
+		float L_10 = __this->___groundCheckDistance;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11;
+		L_11 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_9, L_10, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_12;
+		L_12 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_8, L_11, NULL);
+		Gizmos_DrawLine_mB139054F55D615637A39A3127AADB16043387F8A(L_8, L_12, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:159>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13;
+		L_13 = Vector3_get_down_mF62B2AE7C5AC31EAC9CB62797C7190C90A7A8599_inline(NULL);
+		float L_14 = __this->___groundCheckDistance;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_15;
+		L_15 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_13, L_14, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_16;
+		L_16 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_7, L_15, NULL);
+		Gizmos_DrawWireSphere_m12C01EC9334C32425074A214C5B876271B3DDBA1(L_16, (0.0500000007f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:160>
+		return;
+	}
+}
+// Method Definition Index: 77448
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GrabCubePhysics__ctor_m9EABA02B17634411AA84F99443237B2DDAB6BDFD (GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:9>
+		__this->___mass = (1.0f);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:10>
+		__this->___drag = (0.5f);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:11>
+		__this->___angularDrag = (0.5f);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:12>
+		__this->___useGravity = (bool)1;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:15>
+		LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB L_0;
+		L_0 = LayerMask_op_Implicit_m01C8996A2CB2085328B9C33539C43139660D8222(1, NULL);
+		__this->___groundLayer = L_0;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:16>
+		__this->___groundCheckDistance = (0.100000001f);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/GrabCubePhysics.cs:17>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1;
+		L_1 = Vector3_get_down_mF62B2AE7C5AC31EAC9CB62797C7190C90A7A8599_inline(NULL);
+		__this->___groundCheckOffset = L_1;
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 77449
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_Start_m0999AA52278C3421DA94DCF34B3FC15E4125411A (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:20>
+		bool L_0 = __this->___setupLayersOnStart;
+		if (!L_0)
+		{
+			goto IL_000e;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:22>
+		PhysicsLayerSetup_SetupPhysicsLayers_mA3B150B629EE4BAA92979D88EA385D84C9861523(__this, NULL);
+	}
+
+IL_000e:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:24>
+		return;
+	}
+}
+// Method Definition Index: 77450
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_SetupPhysicsLayers_mA3B150B629EE4BAA92979D88EA385D84C9861523 (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral2536F07CD446693557BA6EFAA3DE28AB0751FE0F);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:29>
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral2536F07CD446693557BA6EFAA3DE28AB0751FE0F, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:34>
+		PhysicsLayerSetup_PrintLayerSetupInstructions_m442294B24594861BC032B2A3FC496459F3EC11F4(__this, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:35>
+		return;
+	}
+}
+// Method Definition Index: 77451
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_PrintLayerSetupInstructions_m442294B24594861BC032B2A3FC496459F3EC11F4 (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral040C4A69C69CDD982826E7D708B5E3CF5BC0D10C);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral0BC39CAAF0E9FA19F327CAA50982F9C4EE73C22D);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral0DA2043A8A682A05414969584CC14FC5C9A02AF9);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral2EE9918A9B50F771D88B9556D6776D99785904E1);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral30603C912EEEAB136CAFC52AE7BE66BC5CAC213D);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6E2A118D02EEC0264ECB711997DC50620920E7B0);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral88D002AD59819F439ED80679A293152630EF5737);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral9890938C32A7046E49E25103EE1BD6BBC263027E);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral99A6F8DEE351E3E9E475C30AC86CCFFB7B3F73CC);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB2301674D3F2FB46D287E562855AA16725AAEC8D);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCD00B8BC1494531781429E421CA5526AD5B5D4B3);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCEB28B98A7A2CD28D9DEDFB781029ECA8D2D3C9E);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralE97ECFE8F396FF79A73B20081B35021844A48013);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralEF5D3A82039A5B06815340BA99949F647729F2C9);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralF13325FE7BF40B244F837DD72779BDDEEE9536FC);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralF40F4777012AF610FA029FE7C10F5A1317E1670B);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralFB084452F5E847D3675C57E20BC6C58B08C96D92);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralFEE592359D1A8563706650C3478C82EF50069B98);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:39>
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral88D002AD59819F439ED80679A293152630EF5737, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:40>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralCD00B8BC1494531781429E421CA5526AD5B5D4B3, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:41>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral0BC39CAAF0E9FA19F327CAA50982F9C4EE73C22D, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:42>
+		String_t* L_0 = __this->___groundLayerName;
+		String_t* L_1;
+		L_1 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteralEF5D3A82039A5B06815340BA99949F647729F2C9, L_0, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:43>
+		String_t* L_2 = __this->___interactableLayerName;
+		String_t* L_3;
+		L_3 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteralFB084452F5E847D3675C57E20BC6C58B08C96D92, L_2, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_3, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:44>
+		String_t* L_4 = __this->___playerLayerName;
+		String_t* L_5;
+		L_5 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteral9890938C32A7046E49E25103EE1BD6BBC263027E, L_4, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_5, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:45>
+		String_t* L_6 = __this->___uiLayerName;
+		String_t* L_7;
+		L_7 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteralCEB28B98A7A2CD28D9DEDFB781029ECA8D2D3C9E, L_6, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_7, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:46>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:47>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral99A6F8DEE351E3E9E475C30AC86CCFFB7B3F73CC, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:48>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralE97ECFE8F396FF79A73B20081B35021844A48013, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:49>
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_8 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)6);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_9 = L_8;
+		NullCheck(L_9);
+		(L_9)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)_stringLiteral040C4A69C69CDD982826E7D708B5E3CF5BC0D10C);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_10 = L_9;
+		String_t* L_11 = __this->___groundLayerName;
+		NullCheck(L_10);
+		(L_10)->SetAt(static_cast<il2cpp_array_size_t>(1), (String_t*)L_11);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_12 = L_10;
+		NullCheck(L_12);
+		(L_12)->SetAt(static_cast<il2cpp_array_size_t>(2), (String_t*)_stringLiteral2EE9918A9B50F771D88B9556D6776D99785904E1);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_13 = L_12;
+		String_t* L_14 = __this->___interactableLayerName;
+		NullCheck(L_13);
+		(L_13)->SetAt(static_cast<il2cpp_array_size_t>(3), (String_t*)L_14);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_15 = L_13;
+		NullCheck(L_15);
+		(L_15)->SetAt(static_cast<il2cpp_array_size_t>(4), (String_t*)_stringLiteral6E2A118D02EEC0264ECB711997DC50620920E7B0);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_16 = L_15;
+		String_t* L_17 = __this->___playerLayerName;
+		NullCheck(L_16);
+		(L_16)->SetAt(static_cast<il2cpp_array_size_t>(5), (String_t*)L_17);
+		String_t* L_18;
+		L_18 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_16, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_18, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:50>
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_19 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)6);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_20 = L_19;
+		NullCheck(L_20);
+		(L_20)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)_stringLiteral040C4A69C69CDD982826E7D708B5E3CF5BC0D10C);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_21 = L_20;
+		String_t* L_22 = __this->___interactableLayerName;
+		NullCheck(L_21);
+		(L_21)->SetAt(static_cast<il2cpp_array_size_t>(1), (String_t*)L_22);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_23 = L_21;
+		NullCheck(L_23);
+		(L_23)->SetAt(static_cast<il2cpp_array_size_t>(2), (String_t*)_stringLiteral2EE9918A9B50F771D88B9556D6776D99785904E1);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_24 = L_23;
+		String_t* L_25 = __this->___groundLayerName;
+		NullCheck(L_24);
+		(L_24)->SetAt(static_cast<il2cpp_array_size_t>(3), (String_t*)L_25);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_26 = L_24;
+		NullCheck(L_26);
+		(L_26)->SetAt(static_cast<il2cpp_array_size_t>(4), (String_t*)_stringLiteral6E2A118D02EEC0264ECB711997DC50620920E7B0);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_27 = L_26;
+		String_t* L_28 = __this->___playerLayerName;
+		NullCheck(L_27);
+		(L_27)->SetAt(static_cast<il2cpp_array_size_t>(5), (String_t*)L_28);
+		String_t* L_29;
+		L_29 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_27, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_29, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:51>
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_30 = (StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248*)SZArrayNew(StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248_il2cpp_TypeInfo_var, (uint32_t)6);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_31 = L_30;
+		NullCheck(L_31);
+		(L_31)->SetAt(static_cast<il2cpp_array_size_t>(0), (String_t*)_stringLiteral040C4A69C69CDD982826E7D708B5E3CF5BC0D10C);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_32 = L_31;
+		String_t* L_33 = __this->___playerLayerName;
+		NullCheck(L_32);
+		(L_32)->SetAt(static_cast<il2cpp_array_size_t>(1), (String_t*)L_33);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_34 = L_32;
+		NullCheck(L_34);
+		(L_34)->SetAt(static_cast<il2cpp_array_size_t>(2), (String_t*)_stringLiteral2EE9918A9B50F771D88B9556D6776D99785904E1);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_35 = L_34;
+		String_t* L_36 = __this->___groundLayerName;
+		NullCheck(L_35);
+		(L_35)->SetAt(static_cast<il2cpp_array_size_t>(3), (String_t*)L_36);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_37 = L_35;
+		NullCheck(L_37);
+		(L_37)->SetAt(static_cast<il2cpp_array_size_t>(4), (String_t*)_stringLiteral6E2A118D02EEC0264ECB711997DC50620920E7B0);
+		StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* L_38 = L_37;
+		String_t* L_39 = __this->___interactableLayerName;
+		NullCheck(L_38);
+		(L_38)->SetAt(static_cast<il2cpp_array_size_t>(5), (String_t*)L_39);
+		String_t* L_40;
+		L_40 = String_Concat_m647EBF831F54B6DF7D5AFA5FD012CF4EE7571B6A(L_38, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_40, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:52>
+		String_t* L_41 = __this->___uiLayerName;
+		String_t* L_42;
+		L_42 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(_stringLiteral040C4A69C69CDD982826E7D708B5E3CF5BC0D10C, L_41, _stringLiteralFEE592359D1A8563706650C3478C82EF50069B98, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_42, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:53>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:54>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral30603C912EEEAB136CAFC52AE7BE66BC5CAC213D, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:55>
+		String_t* L_43 = __this->___groundLayerName;
+		String_t* L_44;
+		L_44 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteralF40F4777012AF610FA029FE7C10F5A1317E1670B, L_43, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_44, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:56>
+		String_t* L_45 = __this->___interactableLayerName;
+		String_t* L_46;
+		L_46 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteralF13325FE7BF40B244F837DD72779BDDEEE9536FC, L_45, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_46, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:57>
+		String_t* L_47 = __this->___playerLayerName;
+		String_t* L_48;
+		L_48 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteral0DA2043A8A682A05414969584CC14FC5C9A02AF9, L_47, NULL);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_48, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:58>
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteralB2301674D3F2FB46D287E562855AA16725AAEC8D, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:59>
+		return;
+	}
+}
+// Method Definition Index: 77452
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_AssignLayersToSceneObjects_m197207B7D893CCF799C90A8F9C6E6FF75011ACBA (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_m94D533D749C927A8897789C193B69184C14C1A1B_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC752E2FE51DC497DCAFDF1BE9046B7588C6A8CA3_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral9D6CC2EA571037317A7D3C7914B554BCE51795D8);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:68>
+		String_t* L_0 = __this->___groundLayerName;
+		PhysicsLayerSetup_AssignLayerToObjectsWithTag_m988AA883186AC2BDCC7BF0284E85279CE3D5A4AB(__this, _stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A, L_0, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:69>
+		String_t* L_1 = __this->___groundLayerName;
+		PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_m94D533D749C927A8897789C193B69184C14C1A1B(__this, L_1, PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_m94D533D749C927A8897789C193B69184C14C1A1B_RuntimeMethod_var);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:70>
+		String_t* L_2 = __this->___interactableLayerName;
+		PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC752E2FE51DC497DCAFDF1BE9046B7588C6A8CA3(__this, L_2, PhysicsLayerSetup_AssignLayerToObjectsWithComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC752E2FE51DC497DCAFDF1BE9046B7588C6A8CA3_RuntimeMethod_var);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:72>
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral9D6CC2EA571037317A7D3C7914B554BCE51795D8, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:73>
+		return;
+	}
+}
+// Method Definition Index: 77453
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup_AssignLayerToObjectsWithTag_m988AA883186AC2BDCC7BF0284E85279CE3D5A4AB (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, String_t* ___0_tag, String_t* ___1_layerName, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral989C21C89B6BADBAC63FA23C686684B8941B2449);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB4EE39BA1196AB6EFC7F697EA0E5A00C56B627A0);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralD68BE01726DE0EA1568C282EEE8A1B99BD2D53BE);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralECBD1FD020ACE94D3888C54BAF8837E1E536ABB9);
+		s_Il2CppMethodInitialized = true;
+	}
+	GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* V_0 = NULL;
+	int32_t V_1 = 0;
+	GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* V_2 = NULL;
+	int32_t V_3 = 0;
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* V_4 = NULL;
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:77>
+		String_t* L_0 = ___0_tag;
+		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_1;
+		L_1 = GameObject_FindGameObjectsWithTag_mB8AA805DA664EF0221BB338446014F662771B4E3(L_0, NULL);
+		V_0 = L_1;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:78>
+		String_t* L_2 = ___1_layerName;
+		int32_t L_3;
+		L_3 = LayerMask_NameToLayer_m2764C530EDA9EC3226A36E3FD43E020B413AF139(L_2, NULL);
+		V_1 = L_3;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:80>
+		int32_t L_4 = V_1;
+		if ((!(((uint32_t)L_4) == ((uint32_t)(-1)))))
+		{
+			goto IL_0028;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:82>
+		String_t* L_5 = ___1_layerName;
+		String_t* L_6;
+		L_6 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(_stringLiteralB4EE39BA1196AB6EFC7F697EA0E5A00C56B627A0, L_5, _stringLiteral989C21C89B6BADBAC63FA23C686684B8941B2449, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9(L_6, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:83>
+		return;
+	}
+
+IL_0028:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:86>
+		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_7 = V_0;
+		V_2 = L_7;
+		V_3 = 0;
+		goto IL_005b;
+	}
+
+IL_002e:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:86>
+		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_8 = V_2;
+		int32_t L_9 = V_3;
+		NullCheck(L_8);
+		int32_t L_10 = L_9;
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_11 = (L_8)->GetAt(static_cast<il2cpp_array_size_t>(L_10));
+		V_4 = L_11;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:88>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_12 = V_4;
+		int32_t L_13 = V_1;
+		NullCheck(L_12);
+		GameObject_set_layer_m6E1AF478A2CC86BD222B96317BEB78B7D89B18D0(L_12, L_13, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:89>
+		String_t* L_14 = ___1_layerName;
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_15 = V_4;
+		NullCheck(L_15);
+		String_t* L_16;
+		L_16 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_15, NULL);
+		String_t* L_17;
+		L_17 = String_Concat_m093934F71A9B351911EE46311674ED463B180006(_stringLiteralD68BE01726DE0EA1568C282EEE8A1B99BD2D53BE, L_14, _stringLiteralECBD1FD020ACE94D3888C54BAF8837E1E536ABB9, L_16, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_17, NULL);
+		int32_t L_18 = V_3;
+		V_3 = ((int32_t)il2cpp_codegen_add(L_18, 1));
+	}
+
+IL_005b:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:86>
+		int32_t L_19 = V_3;
+		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_20 = V_2;
+		NullCheck(L_20);
+		if ((((int32_t)L_19) < ((int32_t)((int32_t)(((RuntimeArray*)L_20)->max_length)))))
+		{
+			goto IL_002e;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:91>
+		return;
+	}
+}
+// Method Definition Index: 77455
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsLayerSetup__ctor_m8139F70FE081F8785A80A0674F15744F3A8B3558 (PhysicsLayerSetup_t4235B92897CF32A71EB3C0AA307D6504DDF8730E* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral58D29FB07FF8A509E2E16212E72BE26200A112C5);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB93F5E13E0AD8E8044D7D80E771F9A55F393D87F);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:13>
+		__this->___groundLayerName = _stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___groundLayerName), (void*)_stringLiteral7A65EFC5BB52048E35B0D3E2214BCF8CE116440A);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:14>
+		__this->___interactableLayerName = _stringLiteral58D29FB07FF8A509E2E16212E72BE26200A112C5;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___interactableLayerName), (void*)_stringLiteral58D29FB07FF8A509E2E16212E72BE26200A112C5);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:15>
+		__this->___playerLayerName = _stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___playerLayerName), (void*)_stringLiteralCAF8804297181FF007CA835529DD4477CFD94A70);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsLayerSetup.cs:16>
+		__this->___uiLayerName = _stringLiteralB93F5E13E0AD8E8044D7D80E771F9A55F393D87F;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___uiLayerName), (void*)_stringLiteralB93F5E13E0AD8E8044D7D80E771F9A55F393D87F);
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 77456
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* PhysicsManager_get_Instance_mDF0A6B0ED57411E9E2F8072A8F7CF085D939434C (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_AddComponent_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_mD34F5ECBD3F7F7118B8387FFF3ADAB83776539D1_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_FindObjectOfType_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_m5272DDF587C5904D71C169C8665EA721F15225EE_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral80D3D68614B79A64E28BF02B2398C467BCA2F59D);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:26>
+		PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* L_0 = ((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_1;
+		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_1)
+		{
+			goto IL_0038;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:28>
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* L_2;
+		L_2 = Object_FindObjectOfType_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_m5272DDF587C5904D71C169C8665EA721F15225EE(Object_FindObjectOfType_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_m5272DDF587C5904D71C169C8665EA721F15225EE_RuntimeMethod_var);
+		((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance = L_2;
+		Il2CppCodeGenWriteBarrier((void**)(&((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance), (void*)L_2);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:29>
+		PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* L_3 = ((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance;
+		bool L_4;
+		L_4 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_3, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_4)
+		{
+			goto IL_0038;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:31>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_5 = (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F*)il2cpp_codegen_object_new(GameObject_t76FEDD663AB33C991A9C9A23129337651094216F_il2cpp_TypeInfo_var);
+		GameObject__ctor_m37D512B05D292F954792225E6C6EEE95293A9B88(L_5, _stringLiteral80D3D68614B79A64E28BF02B2398C467BCA2F59D, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:32>
+		NullCheck(L_5);
+		PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* L_6;
+		L_6 = GameObject_AddComponent_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_mD34F5ECBD3F7F7118B8387FFF3ADAB83776539D1(L_5, GameObject_AddComponent_TisPhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_mD34F5ECBD3F7F7118B8387FFF3ADAB83776539D1_RuntimeMethod_var);
+		((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance = L_6;
+		Il2CppCodeGenWriteBarrier((void**)(&((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance), (void*)L_6);
+	}
+
+IL_0038:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:35>
+		PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* L_7 = ((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance;
+		return L_7;
+	}
+}
+// Method Definition Index: 77457
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_Awake_m5FF7E5B9DF95891EE8C9CD4CAB1CB077A1722525 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:41>
+		PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* L_0 = ((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_1;
+		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_1)
+		{
+			goto IL_0020;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:43>
+		((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance = __this;
+		Il2CppCodeGenWriteBarrier((void**)(&((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance), (void*)__this);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:44>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2;
+		L_2 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		Object_DontDestroyOnLoad_m4B70C3AEF886C176543D1295507B6455C9DCAEA7(L_2, NULL);
+		goto IL_0039;
+	}
+
+IL_0020:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:46>
+		PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* L_3 = ((PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_StaticFields*)il2cpp_codegen_static_fields_for(PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426_il2cpp_TypeInfo_var))->___instance;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_4;
+		L_4 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_3, __this, NULL);
+		if (!L_4)
+		{
+			goto IL_0039;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:48>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_5;
+		L_5 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		Object_Destroy_mE97D0A766419A81296E8D4E5C23D01D3FE91ACBB(L_5, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:49>
+		return;
+	}
+
+IL_0039:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:52>
+		PhysicsManager_SetupGlobalPhysics_mD41B0B47ED72EACC4F4FA308D5D4494028F30503(__this, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:53>
+		return;
+	}
+}
+// Method Definition Index: 77458
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_Start_m44F6172015A08D54F9248D66A262B03A8C1A2AD5 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:58>
+		PhysicsManager_ConfigureScenePhysics_mFC6565481B29B0116707018472B056C102A45CE0(__this, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:59>
+		return;
+	}
+}
+// Method Definition Index: 77459
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_Update_m9E43DE69135F6C1C1FD1B59FBC6F97E571D4B0A6 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:63>
+		bool L_0 = __this->___autoResetFallenObjects;
+		if (!L_0)
+		{
+			goto IL_000e;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:65>
+		PhysicsManager_CheckForFallenObjects_m2806F0D7684985A121FEA8FD67C83D873A380759(__this, NULL);
+	}
+
+IL_000e:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:67>
+		return;
+	}
+}
+// Method Definition Index: 77460
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_SetupGlobalPhysics_mD41B0B47ED72EACC4F4FA308D5D4494028F30503 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral604B452CAB11966BFA0CC9F3FE0897CC135D5D5A);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:72>
+		float L_0 = __this->___globalGravity;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1;
+		memset((&L_1), 0, sizeof(L_1));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_1), (0.0f), L_0, (0.0f), NULL);
+		il2cpp_codegen_runtime_class_init_inline(Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
+		Physics_set_gravity_mAEF3D6B45E6E567F04244C7889366CACCB4F1952(L_1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:75>
+		Physics_set_defaultSolverIterations_mB0A33680F0181471737C776367CB8F9F9F275B50(6, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:76>
+		Physics_set_defaultSolverVelocityIterations_mD05B7ED682A3A670258473C5A796DD430D15BCD2(1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:77>
+		Physics_set_bounceThreshold_m12BD6903B10DCA2606B6E9426F41FAE2DD015456((2.0f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:78>
+		Physics_set_sleepThreshold_m4C6D94024F0508934D79633DDC20F77C8D28DFC7((0.00499999989f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:79>
+		Physics_set_defaultContactOffset_m81A4A3C4CB07A1DC86F5A8B53DE4A137985D4C49((0.00999999978f), NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:81>
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral604B452CAB11966BFA0CC9F3FE0897CC135D5D5A, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:82>
+		return;
+	}
+}
+// Method Definition Index: 77461
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_ConfigureScenePhysics_mFC6565481B29B0116707018472B056C102A45CE0 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisCollider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76_m820398EDBF1D3766C3166A0C323A127662A29A14_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_FindObjectsOfType_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mB45FD2B81374715B46E949E725614703DC84F95B_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_FindObjectsOfType_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC199CDF653D38ECA1356CE666A45EE3F68C7DF47_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral2FE04BD30E54D57730BA28927AA5FEB3F2C51D00);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral32683D74E98F362AC200D53F1F107F7F1CCB04F9);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral3323317B30CB3C3A33D1E8EECBA5DAC88EBD443E);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral91159AA3334F1A17B1D5D2A7520A46B4F763DBB4);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral969A2B06BC1FEAE433E3EAB11C36B933C86D4DE8);
+		s_Il2CppMethodInitialized = true;
+	}
+	COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* V_0 = NULL;
+	GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* V_1 = NULL;
+	COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* V_2 = NULL;
+	int32_t V_3 = 0;
+	COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* V_4 = NULL;
+	GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* V_5 = NULL;
+	GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* V_6 = NULL;
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:87>
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* L_0;
+		L_0 = Object_FindObjectsOfType_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mB45FD2B81374715B46E949E725614703DC84F95B(Object_FindObjectsOfType_TisCOURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0_mB45FD2B81374715B46E949E725614703DC84F95B_RuntimeMethod_var);
+		V_0 = L_0;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:88>
+		COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* L_1 = V_0;
+		V_2 = L_1;
+		V_3 = 0;
+		goto IL_003f;
+	}
+
+IL_000c:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:88>
+		COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* L_2 = V_2;
+		int32_t L_3 = V_3;
+		NullCheck(L_2);
+		int32_t L_4 = L_3;
+		COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* L_5 = (L_2)->GetAt(static_cast<il2cpp_array_size_t>(L_4));
+		V_4 = L_5;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:90>
+		COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* L_6 = V_4;
+		NullCheck(L_6);
+		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_7;
+		L_7 = Component_GetComponent_TisCollider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76_m820398EDBF1D3766C3166A0C323A127662A29A14(L_6, Component_GetComponent_TisCollider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76_m820398EDBF1D3766C3166A0C323A127662A29A14_RuntimeMethod_var);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_8;
+		L_8 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_7, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_8)
+		{
+			goto IL_003b;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:92>
+		COURTBASE_t12E41340BC9C49350958D532589CF0D56BD95BB0* L_9 = V_4;
+		NullCheck(L_9);
+		String_t* L_10;
+		L_10 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_9, NULL);
+		String_t* L_11;
+		L_11 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(_stringLiteral3323317B30CB3C3A33D1E8EECBA5DAC88EBD443E, L_10, _stringLiteral32683D74E98F362AC200D53F1F107F7F1CCB04F9, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9(L_11, NULL);
+	}
+
+IL_003b:
+	{
+		int32_t L_12 = V_3;
+		V_3 = ((int32_t)il2cpp_codegen_add(L_12, 1));
+	}
+
+IL_003f:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:88>
+		int32_t L_13 = V_3;
+		COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* L_14 = V_2;
+		NullCheck(L_14);
+		if ((((int32_t)L_13) < ((int32_t)((int32_t)(((RuntimeArray*)L_14)->max_length)))))
+		{
+			goto IL_000c;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:97>
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* L_15;
+		L_15 = Object_FindObjectsOfType_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC199CDF653D38ECA1356CE666A45EE3F68C7DF47(Object_FindObjectsOfType_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_mC199CDF653D38ECA1356CE666A45EE3F68C7DF47_RuntimeMethod_var);
+		V_1 = L_15;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:98>
+		GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* L_16 = V_1;
+		V_5 = L_16;
+		V_3 = 0;
+		goto IL_0086;
+	}
+
+IL_0052:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:98>
+		GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* L_17 = V_5;
+		int32_t L_18 = V_3;
+		NullCheck(L_17);
+		int32_t L_19 = L_18;
+		GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* L_20 = (L_17)->GetAt(static_cast<il2cpp_array_size_t>(L_19));
+		V_6 = L_20;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:100>
+		GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* L_21 = V_6;
+		NullCheck(L_21);
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_22;
+		L_22 = Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8(L_21, Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_23;
+		L_23 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_22, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_23)
+		{
+			goto IL_0082;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:102>
+		GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* L_24 = V_6;
+		NullCheck(L_24);
+		String_t* L_25;
+		L_25 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_24, NULL);
+		String_t* L_26;
+		L_26 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(_stringLiteral969A2B06BC1FEAE433E3EAB11C36B933C86D4DE8, L_25, _stringLiteral91159AA3334F1A17B1D5D2A7520A46B4F763DBB4, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9(L_26, NULL);
+	}
+
+IL_0082:
+	{
+		int32_t L_27 = V_3;
+		V_3 = ((int32_t)il2cpp_codegen_add(L_27, 1));
+	}
+
+IL_0086:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:98>
+		int32_t L_28 = V_3;
+		GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* L_29 = V_5;
+		NullCheck(L_29);
+		if ((((int32_t)L_28) < ((int32_t)((int32_t)(((RuntimeArray*)L_29)->max_length)))))
+		{
+			goto IL_0052;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:106>
+		COURTBASEU5BU5D_t01479D04DEA66D02F676C31DA38CA3B7C7F9A2CA* L_30 = V_0;
+		NullCheck(L_30);
+		int32_t L_31 = ((int32_t)(((RuntimeArray*)L_30)->max_length));
+		RuntimeObject* L_32 = Box(il2cpp_defaults.int32_class, &L_31);
+		GrabCubePhysicsU5BU5D_t1562520CD81FE773CDECA4AD390BD77EC1447C94* L_33 = V_1;
+		NullCheck(L_33);
+		int32_t L_34 = ((int32_t)(((RuntimeArray*)L_33)->max_length));
+		RuntimeObject* L_35 = Box(il2cpp_defaults.int32_class, &L_34);
+		String_t* L_36;
+		L_36 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral2FE04BD30E54D57730BA28927AA5FEB3F2C51D00, L_32, L_35, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_36, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:107>
+		return;
+	}
+}
+// Method Definition Index: 77462
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_CheckForFallenObjects_m2806F0D7684985A121FEA8FD67C83D873A380759 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_GetComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_m82065CC88786F89B1664AC179994DFB868F4889B_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_FindObjectsOfType_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_mBE599DB26D8EE325527D3181606AC854B2FC7D5B_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral10CF47CADAD317A5958612DF347E3B54CEF1C4B3);
+		s_Il2CppMethodInitialized = true;
+	}
+	RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649* V_0 = NULL;
+	int32_t V_1 = 0;
+	Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* V_2 = NULL;
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:112>
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649* L_0;
+		L_0 = Object_FindObjectsOfType_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_mBE599DB26D8EE325527D3181606AC854B2FC7D5B(Object_FindObjectsOfType_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_mBE599DB26D8EE325527D3181606AC854B2FC7D5B_RuntimeMethod_var);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:114>
+		V_0 = L_0;
+		V_1 = 0;
+		goto IL_006f;
+	}
+
+IL_000a:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:114>
+		RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649* L_1 = V_0;
+		int32_t L_2 = V_1;
+		NullCheck(L_1);
+		int32_t L_3 = L_2;
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_4 = (L_1)->GetAt(static_cast<il2cpp_array_size_t>(L_3));
+		V_2 = L_4;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:116>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_5 = V_2;
+		NullCheck(L_5);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6;
+		L_6 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_5, NULL);
+		NullCheck(L_6);
+		GrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7* L_7;
+		L_7 = GameObject_GetComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_m82065CC88786F89B1664AC179994DFB868F4889B(L_6, GameObject_GetComponent_TisGrabCubePhysics_tB5B863C109075F13CD68AD6CE0A7AB1B73FF4CB7_m82065CC88786F89B1664AC179994DFB868F4889B_RuntimeMethod_var);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_8;
+		L_8 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_7, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_8)
+		{
+			goto IL_006b;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:119>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_9 = V_2;
+		NullCheck(L_9);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_10;
+		L_10 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_9, NULL);
+		NullCheck(L_10);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_11;
+		L_11 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_10, NULL);
+		float L_12 = L_11.___y;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* L_13 = (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*)(&__this->___resetPosition);
+		float L_14 = L_13->___y;
+		float L_15 = __this->___maxFallDistance;
+		if ((!(((float)L_12) < ((float)((float)il2cpp_codegen_subtract(L_14, L_15))))))
+		{
+			goto IL_006b;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:121>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_16 = V_2;
+		NullCheck(L_16);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_17;
+		L_17 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_16, NULL);
+		NullCheck(L_17);
+		String_t* L_18;
+		L_18 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_17, NULL);
+		String_t* L_19;
+		L_19 = String_Concat_m9E3155FB84015C823606188F53B47CB44C444991(_stringLiteral10CF47CADAD317A5958612DF347E3B54CEF1C4B3, L_18, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_19, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:122>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_20 = V_2;
+		NullCheck(L_20);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_21;
+		L_21 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_20, NULL);
+		PhysicsManager_ResetObjectPosition_mC8A97146BC78A385AC5326CF06A9FAC44684B02E(__this, L_21, NULL);
+	}
+
+IL_006b:
+	{
+		int32_t L_22 = V_1;
+		V_1 = ((int32_t)il2cpp_codegen_add(L_22, 1));
+	}
+
+IL_006f:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:114>
+		int32_t L_23 = V_1;
+		RigidbodyU5BU5D_t052E8AB174C34DFD0EBB5E897554DEBB841CC649* L_24 = V_0;
+		NullCheck(L_24);
+		if ((((int32_t)L_23) < ((int32_t)((int32_t)(((RuntimeArray*)L_24)->max_length)))))
+		{
+			goto IL_000a;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:126>
+		return;
+	}
+}
+// Method Definition Index: 77463
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_ResetObjectPosition_mC8A97146BC78A385AC5326CF06A9FAC44684B02E (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_obj, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral45902DA7C66879DA157BEE260538F10B1050005F);
+		s_Il2CppMethodInitialized = true;
+	}
+	Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* V_0 = NULL;
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:130>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = ___0_obj;
+		NullCheck(L_0);
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_1;
+		L_1 = GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90(L_0, GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90_RuntimeMethod_var);
+		V_0 = L_1;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:131>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_2 = V_0;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_3;
+		L_3 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_2, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_3)
+		{
+			goto IL_0026;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:133>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_4 = V_0;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5;
+		L_5 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
+		NullCheck(L_4);
+		Rigidbody_set_linearVelocity_m29AE03D5FC079EAD4202FCF72E2AEBDC19363985(L_4, L_5, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:134>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_6 = V_0;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7;
+		L_7 = Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline(NULL);
+		NullCheck(L_6);
+		Rigidbody_set_angularVelocity_m23266B4E52BF0D2E65CC984AC73CC40B8D4A27E0(L_6, L_7, NULL);
+	}
+
+IL_0026:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:137>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_8 = ___0_obj;
+		NullCheck(L_8);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_9;
+		L_9 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_8, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10 = __this->___resetPosition;
+		NullCheck(L_9);
+		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_9, L_10, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:139>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_11 = ___0_obj;
+		NullCheck(L_11);
+		String_t* L_12;
+		L_12 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_11, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13 = __this->___resetPosition;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_14 = L_13;
+		RuntimeObject* L_15 = Box(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var, &L_14);
+		String_t* L_16;
+		L_16 = String_Format_mFB7DA489BD99F4670881FF50EC017BFB0A5C0987(_stringLiteral45902DA7C66879DA157BEE260538F10B1050005F, L_12, L_15, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(L_16, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:140>
+		return;
+	}
+}
+// Method Definition Index: 77464
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool PhysicsManager_IsObjectGrounded_mD51B91C309809F8FF0B4829A222482DA713F956F (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_obj, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	RaycastHit_t6F30BD0B38B56401CA833A1B87BD74F2ACD2F2B5 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:144>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = ___0_obj;
+		NullCheck(L_0);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_1;
+		L_1 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_0, NULL);
+		NullCheck(L_1);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2;
+		L_2 = Transform_get_position_m69CD5FA214FDAE7BB701552943674846C220FDE1(L_1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:147>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3;
+		L_3 = Vector3_get_down_mF62B2AE7C5AC31EAC9CB62797C7190C90A7A8599_inline(NULL);
+		float L_4 = __this->___groundCheckRadius;
+		LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB L_5 = __this->___groundLayers;
+		int32_t L_6;
+		L_6 = LayerMask_op_Implicit_m7F5A5B9D079281AC445ED39DEE1FCFA9D795810D(L_5, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
+		bool L_7;
+		L_7 = Physics_Raycast_m56120FFEF0D4F0A44CCA505B5C946E6FB8742F12(L_2, L_3, (&V_0), ((float)il2cpp_codegen_add(L_4, (0.100000001f))), L_6, NULL);
+		return L_7;
+	}
+}
+// Method Definition Index: 77465
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_ApplyUpwardForce_m70DF59C7CB7F02DF24C4D4563653C29329C1B317 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_obj, float ___1_force, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* V_0 = NULL;
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:152>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = ___0_obj;
+		NullCheck(L_0);
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_1;
+		L_1 = GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90(L_0, GameObject_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m2D7F86C77ECF9B82AAC077B511F1004280571B90_RuntimeMethod_var);
+		V_0 = L_1;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:153>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_2 = V_0;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_3;
+		L_3 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_2, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_3)
+		{
+			goto IL_0022;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:155>
+		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_4 = V_0;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5;
+		L_5 = Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline(NULL);
+		float L_6 = ___1_force;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7;
+		L_7 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_5, L_6, NULL);
+		NullCheck(L_4);
+		Rigidbody_AddForce_mBDBC288D0E266BC1B62E3649B4FCE46E7EA9CCBC(L_4, L_7, 1, NULL);
+	}
+
+IL_0022:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:157>
+		return;
+	}
+}
+// Method Definition Index: 77466
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_OnDrawGizmos_m2E8E7399DCFF7AF5A02587F116E56EA2BE2133B3 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:162>
+		bool L_0 = __this->___enablePhysicsDebug;
+		if (!L_0)
+		{
+			goto IL_0047;
+		}
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:165>
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_1;
+		L_1 = Color_get_yellow_m66637FA14383E8D74F24AE256B577CE1D55D469F_inline(NULL);
+		Gizmos_set_color_m53927A2741937484180B20B55F7F20F8F60C5797(L_1, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:166>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2 = __this->___resetPosition;
+		float L_3 = __this->___groundCheckRadius;
+		Gizmos_DrawWireSphere_m12C01EC9334C32425074A214C5B876271B3DDBA1(L_2, L_3, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:169>
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_4;
+		L_4 = Color_get_green_mEB001F2CD8C68C6BBAEF9101990B779D3AA2A6EF_inline(NULL);
+		Gizmos_set_color_m53927A2741937484180B20B55F7F20F8F60C5797(L_4, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:170>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_5 = __this->___resetPosition;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6;
+		L_6 = Vector3_get_one_mC9B289F1E15C42C597180C9FE6FB492495B51D02_inline(NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_7;
+		L_7 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_6, (0.5f), NULL);
+		Gizmos_DrawWireCube_m343533B3955A2D04A8638280D0EF537274A1FD8B(L_5, L_7, NULL);
+	}
+
+IL_0047:
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:172>
+		return;
+	}
+}
+// Method Definition Index: 77467
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_SetGlobalGravity_mBF51C9ED0A3A7F559DD783F33A4CD14859D7AFB0 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, float ___0_gravity, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:177>
+		float L_0 = ___0_gravity;
+		__this->___globalGravity = L_0;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:178>
+		float L_1 = __this->___globalGravity;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2;
+		memset((&L_2), 0, sizeof(L_2));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_2), (0.0f), L_1, (0.0f), NULL);
+		il2cpp_codegen_runtime_class_init_inline(Physics_t1244C2983AEAFA149425AFFC3DF53BC91C18ED56_il2cpp_TypeInfo_var);
+		Physics_set_gravity_mAEF3D6B45E6E567F04244C7889366CACCB4F1952(L_2, NULL);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:179>
+		return;
+	}
+}
+// Method Definition Index: 77468
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager_SetGroundLayers_mF486894419053DAE1B84C4DFD252ABCC12EFB249 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB ___0_layers, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:183>
+		LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB L_0 = ___0_layers;
+		__this->___groundLayers = L_0;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:184>
+		return;
+	}
+}
+// Method Definition Index: 77469
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB PhysicsManager_GetGroundLayers_mBA20635DF04EA38C9B885F84287EE87BB60FBC57 (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:188>
+		LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB L_0 = __this->___groundLayers;
+		return L_0;
+	}
+}
+// Method Definition Index: 77470
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PhysicsManager__ctor_m500E02F649A6FBCFB75A34367C05E0EE1D0691DF (PhysicsManager_tB76883B365A3D58B8DA30F89CB90A5A009A1D426* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:9>
+		__this->___globalGravity = (-9.81000042f);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:10>
+		__this->___enablePhysicsDebug = (bool)1;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:13>
+		__this->___maxFallDistance = (50.0f);
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:14>
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0;
+		memset((&L_0), 0, sizeof(L_0));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_0), (0.0f), (1.0f), (0.0f), NULL);
+		__this->___resetPosition = L_0;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:15>
+		__this->___autoResetFallenObjects = (bool)1;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:18>
+		LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB L_1;
+		L_1 = LayerMask_op_Implicit_m01C8996A2CB2085328B9C33539C43139660D8222(1, NULL);
+		__this->___groundLayers = L_1;
+		//<source_info:/Users/josephinenanyonjo/Desktop/LAB 2 Project VR/Assets/PhysicsManager.cs:19>
+		__this->___groundCheckRadius = (0.5f);
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 77471
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____88CC2715ECB3F61CCA2E81393FD4C928CB577A937D6BE1AE2569FA5038F7835A_FieldInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____C01352D7B4646583E3072B7D823A5DEC1CFC80AD41F31C9C23BC4D77AFC82DCA_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_0 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)132));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_1 = L_0;
+		RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 L_2 = { reinterpret_cast<intptr_t> (U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____C01352D7B4646583E3072B7D823A5DEC1CFC80AD41F31C9C23BC4D77AFC82DCA_FieldInfo_var) };
+		RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B((RuntimeArray*)L_1, L_2, NULL);
+		(&V_0)->___FilePathsData = L_1;
+		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___FilePathsData), (void*)L_1);
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_3 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)79));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_4 = L_3;
+		RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 L_5 = { reinterpret_cast<intptr_t> (U3CPrivateImplementationDetailsU3E_t0F5473E849A5A5185A9F4C5246F0C32816C49FCA____88CC2715ECB3F61CCA2E81393FD4C928CB577A937D6BE1AE2569FA5038F7835A_FieldInfo_var) };
+		RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B((RuntimeArray*)L_4, L_5, NULL);
+		(&V_0)->___TypesData = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___TypesData), (void*)L_4);
+		(&V_0)->___TotalFiles = 4;
+		(&V_0)->___TotalTypes = 4;
+		(&V_0)->___IsEditorOnly = (bool)0;
+		MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E L_6 = V_0;
+		return L_6;
+	}
+}
+// Method Definition Index: 77472
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tC95F24D0C6E6B77389433852BB389F39C692926E* __this, const RuntimeMethod* method) 
+{
+	{
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_pinvoke(const MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E& unmarshaled, MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_pinvoke& marshaled)
+{
+	marshaled.___FilePathsData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___FilePathsData);
+	marshaled.___TypesData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___TypesData);
+	marshaled.___TotalTypes = unmarshaled.___TotalTypes;
+	marshaled.___TotalFiles = unmarshaled.___TotalFiles;
+	marshaled.___IsEditorOnly = static_cast<int32_t>(unmarshaled.___IsEditorOnly);
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_pinvoke_back(const MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_pinvoke& marshaled, MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E& unmarshaled)
+{
+	unmarshaled.___FilePathsData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___FilePathsData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData));
+	unmarshaled.___TypesData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___TypesData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData));
+	int32_t unmarshaledTotalTypes_temp_2 = 0;
+	unmarshaledTotalTypes_temp_2 = marshaled.___TotalTypes;
+	unmarshaled.___TotalTypes = unmarshaledTotalTypes_temp_2;
+	int32_t unmarshaledTotalFiles_temp_3 = 0;
+	unmarshaledTotalFiles_temp_3 = marshaled.___TotalFiles;
+	unmarshaled.___TotalFiles = unmarshaledTotalFiles_temp_3;
+	bool unmarshaledIsEditorOnly_temp_4 = false;
+	unmarshaledIsEditorOnly_temp_4 = static_cast<bool>(marshaled.___IsEditorOnly);
+	unmarshaled.___IsEditorOnly = unmarshaledIsEditorOnly_temp_4;
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_pinvoke_cleanup(MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_pinvoke& marshaled)
+{
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___FilePathsData);
+	marshaled.___FilePathsData = NULL;
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___TypesData);
+	marshaled.___TypesData = NULL;
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_com(const MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E& unmarshaled, MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_com& marshaled)
+{
+	marshaled.___FilePathsData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___FilePathsData);
+	marshaled.___TypesData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___TypesData);
+	marshaled.___TotalTypes = unmarshaled.___TotalTypes;
+	marshaled.___TotalFiles = unmarshaled.___TotalFiles;
+	marshaled.___IsEditorOnly = static_cast<int32_t>(unmarshaled.___IsEditorOnly);
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_com_back(const MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_com& marshaled, MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E& unmarshaled)
+{
+	unmarshaled.___FilePathsData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___FilePathsData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData));
+	unmarshaled.___TypesData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___TypesData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData));
+	int32_t unmarshaledTotalTypes_temp_2 = 0;
+	unmarshaledTotalTypes_temp_2 = marshaled.___TotalTypes;
+	unmarshaled.___TotalTypes = unmarshaledTotalTypes_temp_2;
+	int32_t unmarshaledTotalFiles_temp_3 = 0;
+	unmarshaledTotalFiles_temp_3 = marshaled.___TotalFiles;
+	unmarshaled.___TotalFiles = unmarshaledTotalFiles_temp_3;
+	bool unmarshaledIsEditorOnly_temp_4 = false;
+	unmarshaledIsEditorOnly_temp_4 = static_cast<bool>(marshaled.___IsEditorOnly);
+	unmarshaled.___IsEditorOnly = unmarshaledIsEditorOnly_temp_4;
+}
+IL2CPP_EXTERN_C void MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshal_com_cleanup(MonoScriptData_t8F50E352855B96FFFC1D9CB07EACC90C99D73A3E_marshaled_com& marshaled)
+{
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___FilePathsData);
+	marshaled.___FilePathsData = NULL;
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___TypesData);
+	marshaled.___TypesData = NULL;
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Method Definition Index: 44511
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_x;
+		__this->___x = L_0;
+		float L_1 = ___1_y;
+		__this->___y = L_1;
+		float L_2 = ___2_z;
+		__this->___z = L_2;
+		return;
+	}
+}
+// Method Definition Index: 44538
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ((Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields*)il2cpp_codegen_static_fields_for(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var))->___upVector;
+		V_0 = L_0;
+		goto IL_0009;
+	}
+
+IL_0009:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = V_0;
+		return L_1;
+	}
+}
+// Method Definition Index: 44545
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ___0_a;
+		float L_1 = L_0.___x;
+		float L_2 = ___1_d;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3 = ___0_a;
+		float L_4 = L_3.___y;
+		float L_5 = ___1_d;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6 = ___0_a;
+		float L_7 = L_6.___z;
+		float L_8 = ___1_d;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9;
+		memset((&L_9), 0, sizeof(L_9));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_9), ((float)il2cpp_codegen_multiply(L_1, L_2)), ((float)il2cpp_codegen_multiply(L_4, L_5)), ((float)il2cpp_codegen_multiply(L_7, L_8)), NULL);
+		V_0 = L_9;
+		goto IL_0021;
+	}
+
+IL_0021:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10 = V_0;
+		return L_10;
+	}
+}
+// Method Definition Index: 25702
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void XRGrabInteractable_set_trackPosition_mBB7F302096176B7680B1CCA222A399923D43916F_inline (XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:./Library/PackageCache/com.unity.xr.interaction.toolkit@76258c00be3e/Runtime/Interaction/Interactables/XRGrabInteractable.cs:342>
+		bool L_0 = ___0_value;
+		__this->___m_TrackPosition = L_0;
+		return;
+	}
+}
+// Method Definition Index: 25710
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void XRGrabInteractable_set_trackRotation_m9B813A1A7D65E0270FAC6E0BEDBCC90E6DEBF50B_inline (XRGrabInteractable_tAE7E2F24377399C9B5159179E4B43EA6AA55531B* __this, bool ___0_value, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:./Library/PackageCache/com.unity.xr.interaction.toolkit@76258c00be3e/Runtime/Interaction/Interactables/XRGrabInteractable.cs:404>
+		bool L_0 = ___0_value;
+		__this->___m_TrackRotation = L_0;
+		return;
+	}
+}
+// Method Definition Index: 44542
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ___0_a;
+		float L_1 = L_0.___x;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2 = ___1_b;
+		float L_3 = L_2.___x;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4 = ___0_a;
+		float L_5 = L_4.___y;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6 = ___1_b;
+		float L_7 = L_6.___y;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_8 = ___0_a;
+		float L_9 = L_8.___z;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10 = ___1_b;
+		float L_11 = L_10.___z;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_12;
+		memset((&L_12), 0, sizeof(L_12));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_12), ((float)il2cpp_codegen_add(L_1, L_3)), ((float)il2cpp_codegen_add(L_5, L_7)), ((float)il2cpp_codegen_add(L_9, L_11)), NULL);
+		V_0 = L_12;
+		goto IL_0030;
+	}
+
+IL_0030:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13 = V_0;
+		return L_13;
+	}
+}
+// Method Definition Index: 44539
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_down_mF62B2AE7C5AC31EAC9CB62797C7190C90A7A8599_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ((Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields*)il2cpp_codegen_static_fields_for(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var))->___downVector;
+		V_0 = L_0;
+		goto IL_0009;
+	}
+
+IL_0009:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = V_0;
+		return L_1;
+	}
+}
+// Method Definition Index: 44616
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline (float ___0_a, float ___1_b, const RuntimeMethod* method) 
+{
+	float V_0 = 0.0f;
+	float G_B3_0 = 0.0f;
+	{
+		float L_0 = ___0_a;
+		float L_1 = ___1_b;
+		if ((((float)L_0) > ((float)L_1)))
+		{
+			goto IL_0008;
+		}
+	}
+	{
+		float L_2 = ___1_b;
+		G_B3_0 = L_2;
+		goto IL_0009;
+	}
+
+IL_0008:
+	{
+		float L_3 = ___0_a;
+		G_B3_0 = L_3;
+	}
+
+IL_0009:
+	{
+		V_0 = G_B3_0;
+		goto IL_000c;
+	}
+
+IL_000c:
+	{
+		float L_4 = V_0;
+		return L_4;
+	}
+}
+// Method Definition Index: 44529
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Vector3_get_magnitude_mF0D6017E90B345F1F52D1CC564C640F1A847AF2D_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Math_tEB65DE7CA8B083C412C969C92981C030865486CE_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	float V_0 = 0.0f;
+	{
+		float L_0 = __this->___x;
+		float L_1 = __this->___x;
+		float L_2 = __this->___y;
+		float L_3 = __this->___y;
+		float L_4 = __this->___z;
+		float L_5 = __this->___z;
+		il2cpp_codegen_runtime_class_init_inline(Math_tEB65DE7CA8B083C412C969C92981C030865486CE_il2cpp_TypeInfo_var);
+		double L_6;
+		L_6 = sqrt(((double)((float)il2cpp_codegen_add(((float)il2cpp_codegen_add(((float)il2cpp_codegen_multiply(L_0, L_1)), ((float)il2cpp_codegen_multiply(L_2, L_3)))), ((float)il2cpp_codegen_multiply(L_4, L_5))))));
+		V_0 = ((float)L_6);
+		goto IL_0034;
+	}
+
+IL_0034:
+	{
+		float L_7 = V_0;
+		return L_7;
+	}
+}
+// Method Definition Index: 44534
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_zero_m0C1249C3F25B1C70EAD3CC8B31259975A457AE39_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ((Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields*)il2cpp_codegen_static_fields_for(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var))->___zeroVector;
+		V_0 = L_0;
+		goto IL_0009;
+	}
+
+IL_0009:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = V_0;
+		return L_1;
+	}
+}
+// Method Definition Index: 44400
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_red_mA2E53E7173FDC97E68E335049AB0FAAEE43A844D_inline (const RuntimeMethod* method) 
+{
+	{
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_0;
+		memset((&L_0), 0, sizeof(L_0));
+		Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline((&L_0), (1.0f), (0.0f), (0.0f), (1.0f), NULL);
+		return L_0;
+	}
+}
+// Method Definition Index: 44398
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_green_mEB001F2CD8C68C6BBAEF9101990B779D3AA2A6EF_inline (const RuntimeMethod* method) 
+{
+	{
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_0;
+		memset((&L_0), 0, sizeof(L_0));
+		Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline((&L_0), (0.0f), (1.0f), (0.0f), (1.0f), NULL);
+		return L_0;
+	}
+}
+// Method Definition Index: 44402
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_get_yellow_m66637FA14383E8D74F24AE256B577CE1D55D469F_inline (const RuntimeMethod* method) 
+{
+	{
+		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_0;
+		memset((&L_0), 0, sizeof(L_0));
+		Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline((&L_0), (1.0f), (0.921568632f), (0.0156862754f), (1.0f), NULL);
+		return L_0;
+	}
+}
+// Method Definition Index: 44535
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_one_mC9B289F1E15C42C597180C9FE6FB492495B51D02_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ((Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields*)il2cpp_codegen_static_fields_for(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var))->___oneVector;
+		V_0 = L_0;
+		goto IL_0009;
+	}
+
+IL_0009:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = V_0;
+		return L_1;
+	}
+}
+// Method Definition Index: 44368
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Color__ctor_m3786F0D6E510D9CFA544523A955870BD2A514C8C_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F* __this, float ___0_r, float ___1_g, float ___2_b, float ___3_a, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_r;
+		__this->___r = L_0;
+		float L_1 = ___1_g;
+		__this->___g = L_1;
+		float L_2 = ___2_b;
+		__this->___b = L_2;
+		float L_3 = ___3_a;
+		__this->___a = L_3;
+		return;
+	}
+}
